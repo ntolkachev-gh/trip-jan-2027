@@ -1,0 +1,37 @@
+date,from,to,price_rub,via,baggage,url
+2027-01-02,MOW,CMN,38931,,,https://www.aviasales.ru/search/MOW0201CMN1
+2027-01-03,MOW,ALA,18709,,,https://www.aviasales.ru/search/MOW0301ALA1
+2027-01-03,MOW,TAS,19749,direct,,https://www.aviasales.ru/search/MOW0301TAS1
+2027-01-03,MOW,GYD,28209,,,https://www.aviasales.ru/search/MOW0301GYD1
+2027-01-03,MOW,DEL,37664,,,https://www.aviasales.ru/search/MOW0301DEL1
+2027-01-04,MOW,IST,18655,direct S7,10kg hand,https://www.aviasales.ru/search/MOW0401IST1
+2027-01-04,LED,TAS,21843,,,https://www.aviasales.ru/search/LED0401TAS1
+2027-01-04,MOW,BJS,26144,IKT (S7),no,https://www.aviasales.ru/search/MOW0401BJS1
+2027-01-04,LED,BJS,29898,IKT,no,https://www.aviasales.ru/search/LED0401BJS1
+2027-01-04,MOW,DOH,32674,,,https://www.aviasales.ru/search/MOW0401DOH1
+2027-01-04,MOW,PEK,39216,direct Hainan,23kg,https://www.aviasales.ru/search/MOW0401PEK1
+2027-01-05,TAS,BKK,26827,DOH,,https://www.aviasales.ru/search/TAS0501BKK1
+2027-01-05,ALA,BKK,27186,,,https://www.aviasales.ru/search/ALA0501BKK1
+2027-01-06,PEK,SEL,12150,direct Asiana,23kg,https://www.aviasales.ru/search/PEK0601SEL1
+2027-01-06,PEK,MNL,12607,HKG,23kg,https://www.aviasales.ru/search/PEK0601MNL1
+2027-01-06,PEK,BKK,12773,HKG (Cathay),23kg,https://www.aviasales.ru/search/PEK0601BKK1
+2027-01-06,PEK,DPS,23055,SGN,23kg,https://www.aviasales.ru/search/PEK0601DPS1
+2027-01-06,IST,BKK,23796,KUL,7kg,https://www.aviasales.ru/search/IST0601BKK1
+2027-01-06,IST,SGN,31067,KUL,no,https://www.aviasales.ru/search/IST0601SGN1
+2027-01-06,PEK,TYO,31437,direct ANA,,https://www.aviasales.ru/search/PEK0601TYO1
+2027-01-06,IST,CMB,35817,AUH,25kg,https://www.aviasales.ru/search/IST0601CMB1
+2027-01-06,IST,HKT,39042,BKK,23kg,https://www.aviasales.ru/search/IST0601HKT1
+2027-01-06,IST,ZNZ,42235,DOH,2 bags,https://www.aviasales.ru/search/IST0601ZNZ1
+2027-01-13,MNL,BJS,13614,HKG,,https://www.aviasales.ru/search/MNL1401BJS1
+2027-01-14,SEL,BJS,12096,direct Asiana,,https://www.aviasales.ru/search/SEL1401BJS1
+2027-01-14,BKK,BJS,13640,1 stop,23kg,https://www.aviasales.ru/search/BKK1401BJS1
+2027-01-14,TYO,BJS,21742,HK Express,,https://www.aviasales.ru/search/TYO1401BJS1
+2027-01-14,BKK,IST,27562,SHJ,,https://www.aviasales.ru/search/BKK1401IST1
+2027-01-14,BKK,MOW,37511,TAS/DOH,,https://www.aviasales.ru/search/BKK1401MOW1
+2027-01-15,BJS,MOW,28880,GYD (Ural),,https://www.aviasales.ru/search/BJS1601MOW1
+2027-01-15,BKK,MOW,38699,BOM+GYD,no,https://www.aviasales.ru/search/BKK1501MOW1
+2027-01-15,CMB,MOW,39554,SHJ/DWC,no,https://www.aviasales.ru/search/CMB1501MOW1
+2027-01-15,HKT,MOW,44167,BOM+GYD,no,https://www.aviasales.ru/search/HKT1501MOW1
+2027-01-15,SGN,MOW,45944,CKG+URC,23kg,https://www.aviasales.ru/search/SGN1501MOW1
+2027-01-15,ZNZ,MOW,61471,NBO+DXB/DWC,,https://www.aviasales.ru/search/ZNZ1501MOW1
+2027-01-16,IST,MOW,16869,direct,,https://www.aviasales.ru/search/IST1601MOW1
