@@ -700,7 +700,13 @@
      "url": "https://www.aviasales.ru/search/BKK1401MOW1"
     }
    ],
-   "total_card": 76428
+   "total_card": 76428,
+   "score": 100.4,
+   "optimal": true,
+   "reason": "самый дешёвый, 3 билета, багаж на рейсе Пекин → Бангкок, без смены аэропортов",
+   "stops": 3,
+   "nobag_legs": 2,
+   "risk": 0
   },
   {
    "name": "Сеул через Пекин",
@@ -760,55 +766,13 @@
      "url": "https://www.aviasales.ru/search/BJS1601MOW1"
     }
    ],
-   "total_card": 79270
-  },
-  {
-   "name": "Бангкок через Стамбул",
-   "total": 81150,
-   "path": [
-    "MOW",
-    "IST",
-    "BKK",
-    "MOW"
-   ],
-   "leg_ids": [
-    26,
-    34,
-    49
-   ],
-   "legs": [
-    {
-     "id": 26,
-     "date": "2027-01-04",
-     "from": "MOW",
-     "to": "IST",
-     "price_rub": "18655",
-     "via": "direct S7",
-     "baggage": "10kg hand",
-     "url": "https://www.aviasales.ru/search/MOW0401IST1"
-    },
-    {
-     "id": 34,
-     "date": "2027-01-06",
-     "from": "IST",
-     "to": "BKK",
-     "price_rub": "23796",
-     "via": "KUL",
-     "baggage": "7kg",
-     "url": "https://www.aviasales.ru/search/IST0601BKK1"
-    },
-    {
-     "id": 49,
-     "date": "2027-01-15",
-     "from": "BKK",
-     "to": "MOW",
-     "price_rub": "38699",
-     "via": "BOM+GYD",
-     "baggage": "no",
-     "url": "https://www.aviasales.ru/search/BKK1501MOW1"
-    }
-   ],
-   "total_card": 81200
+   "total_card": 79270,
+   "score": 105.3,
+   "optimal": true,
+   "reason": "дёшево, меньше всего пересадок (2), прямые рейсы Пекин ↔ Сеул с багажом туда",
+   "stops": 2,
+   "nobag_legs": 3,
+   "risk": 0
   },
   {
    "name": "Манила через Пекин",
@@ -868,7 +832,66 @@
      "url": "https://www.aviasales.ru/search/BJS1601MOW1"
     }
    ],
-   "total_card": 81245
+   "total_card": 81245,
+   "score": 115.2,
+   "optimal": true,
+   "reason": "дёшево и другое направление, багаж на рейсе Пекин → Манила, без смены аэропортов",
+   "stops": 4,
+   "nobag_legs": 3,
+   "risk": 0
+  },
+  {
+   "name": "Бангкок через Стамбул",
+   "total": 81150,
+   "path": [
+    "MOW",
+    "IST",
+    "BKK",
+    "MOW"
+   ],
+   "leg_ids": [
+    26,
+    34,
+    49
+   ],
+   "legs": [
+    {
+     "id": 26,
+     "date": "2027-01-04",
+     "from": "MOW",
+     "to": "IST",
+     "price_rub": "18655",
+     "via": "direct S7",
+     "baggage": "10kg hand",
+     "url": "https://www.aviasales.ru/search/MOW0401IST1"
+    },
+    {
+     "id": 34,
+     "date": "2027-01-06",
+     "from": "IST",
+     "to": "BKK",
+     "price_rub": "23796",
+     "via": "KUL",
+     "baggage": "7kg",
+     "url": "https://www.aviasales.ru/search/IST0601BKK1"
+    },
+    {
+     "id": 49,
+     "date": "2027-01-15",
+     "from": "BKK",
+     "to": "MOW",
+     "price_rub": "38699",
+     "via": "BOM+GYD",
+     "baggage": "no",
+     "url": "https://www.aviasales.ru/search/BKK1501MOW1"
+    }
+   ],
+   "total_card": 81200,
+   "score": 108.2,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 3,
+   "risk": 0
   },
   {
    "name": "Бангкок через Стамбул (вылет 3 янв)",
@@ -916,7 +939,12 @@
      "url": "https://www.aviasales.ru/search/BKK1401MOW1"
     }
    ],
-   "total_card": 85300
+   "total_card": 85300,
+   "score": 112.3,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 3,
+   "risk": 0
   },
   {
    "name": "Коломбо (Шри-Ланка) через Стамбул",
@@ -964,7 +992,12 @@
      "url": "https://www.aviasales.ru/search/CMB1501MOW1"
     }
    ],
-   "total_card": 94000
+   "total_card": 94000,
+   "score": 122.0,
+   "optimal": false,
+   "stops": 2,
+   "nobag_legs": 2,
+   "risk": 1
   },
   {
    "name": "Хошимин через Стамбул",
@@ -1012,7 +1045,12 @@
      "url": "https://www.aviasales.ru/search/SGN1501MOW1"
     }
    ],
-   "total_card": 95700
+   "total_card": 95700,
+   "score": 119.7,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 2,
+   "risk": 0
   },
   {
    "name": "Коломбо (Шри-Ланка) через Стамбул (вылет 3 янв)",
@@ -1060,7 +1098,12 @@
      "url": "https://www.aviasales.ru/search/CMB1501MOW1"
     }
    ],
-   "total_card": 100500
+   "total_card": 100500,
+   "score": 128.6,
+   "optimal": false,
+   "stops": 2,
+   "nobag_legs": 2,
+   "risk": 1
   },
   {
    "name": "Пхукет через Стамбул",
@@ -1108,7 +1151,12 @@
      "url": "https://www.aviasales.ru/search/HKT1501MOW1"
     }
    ],
-   "total_card": 101900
+   "total_card": 101900,
+   "score": 125.9,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 2,
+   "risk": 0
   },
   {
    "name": "Хошимин через Стамбул (вылет 3 янв)",
@@ -1156,7 +1204,12 @@
      "url": "https://www.aviasales.ru/search/SGN1501MOW1"
     }
    ],
-   "total_card": 102700
+   "total_card": 102700,
+   "score": 123.8,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 1,
+   "risk": 0
   },
   {
    "name": "Пхукет через Стамбул (вылет 3 янв)",
@@ -1204,7 +1257,12 @@
      "url": "https://www.aviasales.ru/search/HKT1501MOW1"
     }
    ],
-   "total_card": 111400
+   "total_card": 111400,
+   "score": 132.3,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 1,
+   "risk": 0
   },
   {
    "name": "Занзибар через Стамбул",
@@ -1252,7 +1310,12 @@
      "url": "https://www.aviasales.ru/search/ZNZ1501MOW1"
     }
    ],
-   "total_card": 120000
+   "total_card": 120000,
+   "score": 154.4,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 2,
+   "risk": 1
   },
   {
    "name": "Занзибар через Стамбул (вылет 3 янв)",
@@ -1300,7 +1363,12 @@
      "url": "https://www.aviasales.ru/search/ZNZ1501MOW1"
     }
    ],
-   "total_card": 134800
+   "total_card": 134800,
+   "score": 163.8,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 1,
+   "risk": 1
   },
   {
    "name": "Маврикий через Стамбул (вылет 3 янв)",
@@ -1349,7 +1417,12 @@
      "url": "https://www.aviasales.ru/search/MRU1501MOW1"
     }
    ],
-   "total_card": 158100
+   "total_card": 158100,
+   "score": 172.1,
+   "optimal": false,
+   "stops": 2,
+   "nobag_legs": 0,
+   "risk": 0
   }
  ]
 }
