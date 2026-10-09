@@ -173,15 +173,6 @@
   },
   {
    "date": "2027-01-06",
-   "from": "PEK",
-   "to": "TYO",
-   "price_rub": "31437",
-   "via": "direct ANA",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/PEK0601TYO1"
-  },
-  {
-   "date": "2027-01-06",
    "from": "IST",
    "to": "CMB",
    "price_rub": "35817",
@@ -233,15 +224,6 @@
    "via": "1 stop",
    "baggage": "23kg",
    "url": "https://www.aviasales.ru/search/BKK1401BJS1"
-  },
-  {
-   "date": "2027-01-14",
-   "from": "TYO",
-   "to": "BJS",
-   "price_rub": "21742",
-   "via": "HK Express",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/TYO1401BJS1"
   },
   {
    "date": "2027-01-14",
@@ -399,12 +381,6 @@
    "url": "https://www.aviasales.ru/search/MOW0401BKK15011"
   },
   {
-   "city": "Токио",
-   "code": "TYO",
-   "price": 105605,
-   "url": "https://www.aviasales.ru/search/MOW0401TYO15011"
-  },
-  {
    "city": "Занзибар",
    "code": "ZNZ",
    "price": 118782,
@@ -494,17 +470,6 @@
     "MOW",
     "IST",
     "HKT",
-    "MOW"
-   ]
-  },
-  {
-   "name": "Токио через Пекин",
-   "total": 108000,
-   "path": [
-    "MOW",
-    "BJS",
-    "TYO",
-    "BJS",
     "MOW"
    ]
   },
