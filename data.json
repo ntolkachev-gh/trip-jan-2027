@@ -2,12 +2,66 @@
  "legs": [
   {
    "date": "2027-01-02",
+   "from": "LED",
+   "to": "SAW",
+   "price_rub": "18650",
+   "via": "via Moscow SVO→VKO airport change",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/LED0201IST1"
+  },
+  {
+   "date": "2027-01-02",
+   "from": "LED",
+   "to": "SAW",
+   "price_rub": "33156",
+   "via": "direct Pegasus",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/LED0201SAW1"
+  },
+  {
+   "date": "2027-01-02",
    "from": "MOW",
    "to": "CMN",
    "price_rub": "38931",
    "via": "",
    "baggage": "",
    "url": "https://www.aviasales.ru/search/MOW0201CMN1"
+  },
+  {
+   "date": "2027-01-02",
+   "from": "MOW",
+   "to": "IST",
+   "price_rub": "30040",
+   "via": "direct Southwind 00:50",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/MOW0201IST1"
+  },
+  {
+   "date": "2027-01-02",
+   "from": "MOW",
+   "to": "SAW",
+   "price_rub": "33221",
+   "via": "direct Pegasus",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/MOW0201SAW1"
+  },
+  {
+   "date": "2027-01-03",
+   "from": "LED",
+   "to": "IST",
+   "price_rub": "23761",
+   "via": "S7 via DME",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/LED0301IST1"
+  },
+  {
+   "date": "2027-01-03",
+   "from": "LED",
+   "to": "IST",
+   "price_rub": "27915",
+   "via": "direct Southwind",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/LED0301IST1"
   },
   {
    "date": "2027-01-03",
@@ -21,11 +75,11 @@
   {
    "date": "2027-01-03",
    "from": "MOW",
-   "to": "TAS",
-   "price_rub": "19749",
-   "via": "direct",
+   "to": "DEL",
+   "price_rub": "37664",
+   "via": "",
    "baggage": "",
-   "url": "https://www.aviasales.ru/search/MOW0301TAS1"
+   "url": "https://www.aviasales.ru/search/MOW0301DEL1"
   },
   {
    "date": "2027-01-03",
@@ -39,20 +93,110 @@
   {
    "date": "2027-01-03",
    "from": "MOW",
-   "to": "DEL",
-   "price_rub": "37664",
-   "via": "",
+   "to": "IST",
+   "price_rub": "25215",
+   "via": "direct Southwind 00:50",
+   "baggage": "no; 28110 with 20kg",
+   "url": "https://www.aviasales.ru/search/MOW0301IST1"
+  },
+  {
+   "date": "2027-01-03",
+   "from": "MOW",
+   "to": "IST",
+   "price_rub": "31052",
+   "via": "direct Pobeda",
    "baggage": "",
-   "url": "https://www.aviasales.ru/search/MOW0301DEL1"
+   "url": "https://www.aviasales.ru/search/MOW0301IST1"
+  },
+  {
+   "date": "2027-01-03",
+   "from": "MOW",
+   "to": "IST",
+   "price_rub": "39079",
+   "via": "direct Turkish",
+   "baggage": "bag incl",
+   "url": "https://www.aviasales.ru/search/MOW0301IST1"
+  },
+  {
+   "date": "2027-01-03",
+   "from": "MOW",
+   "to": "TAS",
+   "price_rub": "19749",
+   "via": "direct",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/MOW0301TAS1"
   },
   {
    "date": "2027-01-04",
-   "from": "MOW",
-   "to": "IST",
-   "price_rub": "18655",
-   "via": "direct S7",
-   "baggage": "10kg hand",
-   "url": "https://www.aviasales.ru/search/MOW0401IST1"
+   "from": "IST",
+   "to": "BKK",
+   "price_rub": "22607",
+   "via": "MCT+SHJ",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/IST0401BKK1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "IST",
+   "to": "BKK",
+   "price_rub": "31789",
+   "via": "CAN",
+   "baggage": "bag incl",
+   "url": "https://www.aviasales.ru/search/IST0401BKK1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "IST",
+   "to": "CMB",
+   "price_rub": "35817",
+   "via": "AUH",
+   "baggage": "bag",
+   "url": "https://www.aviasales.ru/search/IST0401CMB1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "IST",
+   "to": "HKT",
+   "price_rub": "39042",
+   "via": "BKK",
+   "baggage": "bag",
+   "url": "https://www.aviasales.ru/search/IST0401HKT1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "IST",
+   "to": "MRU",
+   "price_rub": "55851",
+   "via": "DXB",
+   "baggage": "bag",
+   "url": "https://www.aviasales.ru/search/IST0401MRU1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "IST",
+   "to": "SGN",
+   "price_rub": "31621",
+   "via": "CAN",
+   "baggage": "bag",
+   "url": "https://www.aviasales.ru/search/IST0401SGN1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "IST",
+   "to": "ZNZ",
+   "price_rub": "45187",
+   "via": "DOH",
+   "baggage": "bag",
+   "url": "https://www.aviasales.ru/search/IST0401ZNZ1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "LED",
+   "to": "BJS",
+   "price_rub": "29898",
+   "via": "IKT",
+   "baggage": "no",
+   "url": "https://www.aviasales.ru/search/LED0401BJS1"
   },
   {
    "date": "2027-01-04",
@@ -74,21 +218,21 @@
   },
   {
    "date": "2027-01-04",
-   "from": "LED",
-   "to": "BJS",
-   "price_rub": "29898",
-   "via": "IKT",
-   "baggage": "no",
-   "url": "https://www.aviasales.ru/search/LED0401BJS1"
-  },
-  {
-   "date": "2027-01-04",
    "from": "MOW",
    "to": "DOH",
    "price_rub": "32674",
    "via": "",
    "baggage": "",
    "url": "https://www.aviasales.ru/search/MOW0401DOH1"
+  },
+  {
+   "date": "2027-01-04",
+   "from": "MOW",
+   "to": "IST",
+   "price_rub": "18655",
+   "via": "direct S7",
+   "baggage": "10kg hand",
+   "url": "https://www.aviasales.ru/search/MOW0401IST1"
   },
   {
    "date": "2027-01-04",
@@ -101,15 +245,6 @@
   },
   {
    "date": "2027-01-05",
-   "from": "TAS",
-   "to": "BKK",
-   "price_rub": "26827",
-   "via": "DOH",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/TAS0501BKK1"
-  },
-  {
-   "date": "2027-01-05",
    "from": "ALA",
    "to": "BKK",
    "price_rub": "27186",
@@ -118,40 +253,49 @@
    "url": "https://www.aviasales.ru/search/ALA0501BKK1"
   },
   {
-   "date": "2027-01-06",
-   "from": "PEK",
-   "to": "SEL",
-   "price_rub": "12150",
-   "via": "direct Asiana",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0601SEL1"
-  },
-  {
-   "date": "2027-01-06",
-   "from": "PEK",
-   "to": "MNL",
-   "price_rub": "12607",
-   "via": "HKG",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0601MNL1"
-  },
-  {
-   "date": "2027-01-06",
-   "from": "PEK",
+   "date": "2027-01-05",
+   "from": "IST",
    "to": "BKK",
-   "price_rub": "12773",
-   "via": "HKG (Cathay)",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0601BKK1"
+   "price_rub": "26663",
+   "via": "Oman Air via MCT",
+   "baggage": "bag incl",
+   "url": "https://www.aviasales.ru/search/IST0501BKK1"
   },
   {
-   "date": "2027-01-06",
-   "from": "PEK",
-   "to": "DPS",
-   "price_rub": "23055",
-   "via": "SGN",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0601DPS1"
+   "date": "2027-01-05",
+   "from": "IST",
+   "to": "CMB",
+   "price_rub": "59001",
+   "via": "direct",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/IST0501CMB1"
+  },
+  {
+   "date": "2027-01-05",
+   "from": "IST",
+   "to": "SGN",
+   "price_rub": "35529",
+   "via": "ASB",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/IST0501SGN1"
+  },
+  {
+   "date": "2027-01-05",
+   "from": "IST",
+   "to": "ZNZ",
+   "price_rub": "32601",
+   "via": "MCT+ADD 37h",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/IST0501ZNZ1"
+  },
+  {
+   "date": "2027-01-05",
+   "from": "TAS",
+   "to": "BKK",
+   "price_rub": "26827",
+   "via": "DOH",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/TAS0501BKK1"
   },
   {
    "date": "2027-01-06",
@@ -161,15 +305,6 @@
    "via": "KUL",
    "baggage": "7kg",
    "url": "https://www.aviasales.ru/search/IST0601BKK1"
-  },
-  {
-   "date": "2027-01-06",
-   "from": "IST",
-   "to": "SGN",
-   "price_rub": "31067",
-   "via": "KUL",
-   "baggage": "no",
-   "url": "https://www.aviasales.ru/search/IST0601SGN1"
   },
   {
    "date": "2027-01-06",
@@ -192,11 +327,56 @@
   {
    "date": "2027-01-06",
    "from": "IST",
+   "to": "SGN",
+   "price_rub": "31067",
+   "via": "KUL",
+   "baggage": "no",
+   "url": "https://www.aviasales.ru/search/IST0601SGN1"
+  },
+  {
+   "date": "2027-01-06",
+   "from": "IST",
    "to": "ZNZ",
    "price_rub": "42235",
    "via": "DOH",
    "baggage": "2 bags",
    "url": "https://www.aviasales.ru/search/IST0601ZNZ1"
+  },
+  {
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "BKK",
+   "price_rub": "12773",
+   "via": "HKG (Cathay)",
+   "baggage": "23kg",
+   "url": "https://www.aviasales.ru/search/PEK0601BKK1"
+  },
+  {
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "DPS",
+   "price_rub": "23055",
+   "via": "SGN",
+   "baggage": "23kg",
+   "url": "https://www.aviasales.ru/search/PEK0601DPS1"
+  },
+  {
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "MNL",
+   "price_rub": "12607",
+   "via": "HKG",
+   "baggage": "23kg",
+   "url": "https://www.aviasales.ru/search/PEK0601MNL1"
+  },
+  {
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "SEL",
+   "price_rub": "12150",
+   "via": "direct Asiana",
+   "baggage": "23kg",
+   "url": "https://www.aviasales.ru/search/PEK0601SEL1"
   },
   {
    "date": "2027-01-13",
@@ -206,15 +386,6 @@
    "via": "HKG",
    "baggage": "",
    "url": "https://www.aviasales.ru/search/MNL1401BJS1"
-  },
-  {
-   "date": "2027-01-14",
-   "from": "SEL",
-   "to": "BJS",
-   "price_rub": "12096",
-   "via": "direct Asiana",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/SEL1401BJS1"
   },
   {
    "date": "2027-01-14",
@@ -242,6 +413,15 @@
    "via": "TAS/DOH",
    "baggage": "",
    "url": "https://www.aviasales.ru/search/BKK1401MOW1"
+  },
+  {
+   "date": "2027-01-14",
+   "from": "SEL",
+   "to": "BJS",
+   "price_rub": "12096",
+   "via": "direct Asiana",
+   "baggage": "",
+   "url": "https://www.aviasales.ru/search/SEL1401BJS1"
   },
   {
    "date": "2027-01-15",
@@ -278,6 +458,15 @@
    "via": "BOM+GYD",
    "baggage": "no",
    "url": "https://www.aviasales.ru/search/HKT1501MOW1"
+  },
+  {
+   "date": "2027-01-15",
+   "from": "MRU",
+   "to": "MOW",
+   "price_rub": "74184",
+   "via": "DXB",
+   "baggage": "bag",
+   "url": "https://www.aviasales.ru/search/MRU1501MOW1"
   },
   {
    "date": "2027-01-15",
@@ -444,6 +633,16 @@
    ]
   },
   {
+   "name": "Бангкок через Стамбул (вылет 3 янв)",
+   "total": 85300,
+   "path": [
+    "MOW",
+    "IST",
+    "BKK",
+    "MOW"
+   ]
+  },
+  {
    "name": "Коломбо (Шри-Ланка) через Стамбул",
    "total": 94000,
    "path": [
@@ -464,8 +663,38 @@
    ]
   },
   {
+   "name": "Коломбо (Шри-Ланка) через Стамбул (вылет 3 янв)",
+   "total": 100500,
+   "path": [
+    "MOW",
+    "IST",
+    "CMB",
+    "MOW"
+   ]
+  },
+  {
    "name": "Пхукет через Стамбул",
    "total": 101900,
+   "path": [
+    "MOW",
+    "IST",
+    "HKT",
+    "MOW"
+   ]
+  },
+  {
+   "name": "Хошимин через Стамбул (вылет 3 янв)",
+   "total": 102700,
+   "path": [
+    "MOW",
+    "IST",
+    "SGN",
+    "MOW"
+   ]
+  },
+  {
+   "name": "Пхукет через Стамбул (вылет 3 янв)",
+   "total": 111400,
    "path": [
     "MOW",
     "IST",
@@ -482,6 +711,27 @@
     "ZNZ",
     "MOW"
    ]
+  },
+  {
+   "name": "Занзибар через Стамбул (вылет 3 янв)",
+   "total": 134800,
+   "path": [
+    "MOW",
+    "IST",
+    "ZNZ",
+    "MOW"
+   ]
+  },
+  {
+   "name": "Маврикий через Стамбул (вылет 3 янв)",
+   "total": 158100,
+   "path": [
+    "MOW",
+    "IST",
+    "MRU",
+    "MOW"
+   ],
+   "note": "выше бюджета"
   }
  ]
 }
