@@ -2,15 +2,15 @@ date,from,to,price_rub,via,baggage,url
 2027-01-02,LED,SAW,18650,via Moscow SVO→VKO airport change,,https://www.aviasales.ru/search/LED0201IST1
 2027-01-02,LED,SAW,33156,direct Pegasus,,https://www.aviasales.ru/search/LED0201SAW1
 2027-01-02,MOW,CMN,38931,,,https://www.aviasales.ru/search/MOW0201CMN1
-2027-01-02,MOW,IST,29584,direct SVO→IST 00:50,8kg hand; 32434 with 20kg,https://www.aviasales.ru/search/MOW0201IST1
+2027-01-02,MOW,IST,25143,GRV 1 stop VKO,5kg hand; 33394 with 20kg; direct 29421,https://www.aviasales.ru/search/MOW0201IST1
 2027-01-02,MOW,SAW,33221,direct Pegasus,,https://www.aviasales.ru/search/MOW0201SAW1
 2027-01-03,LED,IST,23546,S7 via DME,no,https://www.aviasales.ru/search/LED0301IST1
 2027-01-03,LED,IST,27626,direct Southwind,no; 30760 with 20kg,https://www.aviasales.ru/search/LED0301IST1
 2027-01-03,MOW,ALA,18709,,,https://www.aviasales.ru/search/MOW0301ALA1
 2027-01-03,MOW,DEL,37664,,,https://www.aviasales.ru/search/MOW0301DEL1
 2027-01-03,MOW,GYD,28209,,,https://www.aviasales.ru/search/MOW0301GYD1
-2027-01-03,MOW,IST,18258,AYT 1 stop VKO→SAW,no hand; 22542 with 15kg,https://www.aviasales.ru/search/MOW0301IST1
-2027-01-03,MOW,IST,29584,direct cheapest alt,hand; see id 10 for via AYT,https://www.aviasales.ru/search/MOW0301IST1
+2027-01-03,MOW,IST,25166,AYT 1 stop VKO→SAW,3kg; 29269 with 20kg; direct 29421,https://www.aviasales.ru/search/MOW0301IST1
+2027-01-03,MOW,IST,29421,direct cheapest alt,see id 10 for via AYT,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,IST,31052,direct Pobeda,,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,IST,39079,direct Turkish,bag incl,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,TAS,19749,direct,,https://www.aviasales.ru/search/MOW0301TAS1
@@ -25,9 +25,9 @@ date,from,to,price_rub,via,baggage,url
 2027-01-04,LED,BJS,59138,"IKT+OVB (билет туда-обратно, обратно 15.01)",10kg hand; 79731 with 23kg,https://www.aviasales.ru/search/LED0401BJS15011
 2027-01-04,LED,TAS,21843,,,https://www.aviasales.ru/search/LED0401TAS1
 2027-01-04,MOW,BJS,25904,IKT (S7),no; 35074 with 23kg,https://www.aviasales.ru/search/MOW0401BJS1
-2027-01-04,MOW,BJS,45320,"SVX (Ural Airlines, билет туда-обратно, обратно 15.01)",10kg hand; 59459 with 23kg,https://www.aviasales.ru/search/MOW0401BJS15011
+2027-01-04,MOW,BJS,48404,"1 stop IKT/OVB (билет туда-обратно, обратно 15.01; прилёт 6.01)",10kg hand; 68354 with 23kg,https://www.aviasales.ru/search/MOW0401BJS15011
 2027-01-04,MOW,DOH,32674,,,https://www.aviasales.ru/search/MOW0401DOH1
-2027-01-04,MOW,IST,18375,direct S7 DME→IST 11:00,10kg hand; 25690 with 23kg,https://www.aviasales.ru/search/MOW0401IST1
+2027-01-04,MOW,IST,18285,direct S7 DME→IST 11:00,10kg hand; 25560 with 23kg,https://www.aviasales.ru/search/MOW0401IST1
 2027-01-04,MOW,PEK,38827,direct Hainan,23kg,https://www.aviasales.ru/search/MOW0401PEK1
 2027-01-05,ALA,BKK,27186,,,https://www.aviasales.ru/search/ALA0501BKK1
 2027-01-05,IST,BKK,26663,Oman Air via MCT,bag incl,https://www.aviasales.ru/search/IST0501BKK1
@@ -40,16 +40,16 @@ date,from,to,price_rub,via,baggage,url
 2027-01-06,IST,HKT,39042,BKK,23kg,https://www.aviasales.ru/search/IST0601HKT1
 2027-01-06,IST,SGN,35528,ASB,23kg,https://www.aviasales.ru/search/IST0601SGN1
 2027-01-06,IST,ZNZ,42235,DOH,2 bags,https://www.aviasales.ru/search/IST0601ZNZ1
-2027-01-06,PEK,BKK,12936,HKG (Cathay),small bag only,https://www.aviasales.ru/search/PEK0601BKK1
+2027-01-06,PEK,BKK,12083,HKG,5kg hand; 12323 with 23kg,https://www.aviasales.ru/search/PEK0501BKK1
 2027-01-06,PEK,DPS,23055,SGN,23kg,https://www.aviasales.ru/search/PEK0601DPS1
-2027-01-06,PEK,MNL,12168,HKG,23kg + small bag,https://www.aviasales.ru/search/PEK0601MNL1
+2027-01-06,PEK,MNL,11884,HKG,5kg hand; 12168 with 23kg,https://www.aviasales.ru/search/PEK0501MNL1
+2027-01-06,PEK,SEL,8883,CJU 1 stop (to GMP),7kg hand; direct 11763 with 23kg,https://www.aviasales.ru/search/PEK0501ICN1
 2027-01-06,PEK,SEL,9042,"CJU (Spring+Eastar, 14h)",no,https://www.aviasales.ru/search/PEK0601SEL1
-2027-01-06,PEK,SEL,11690,Shandong 1 stop,23kg + 5kg hand,https://www.aviasales.ru/search/PEK0601SEL1
-2027-01-14,BKK,BJS,13321,CAN (to PKX),23kg + 8kg hand,https://www.aviasales.ru/search/BKK1401BJS1
+2027-01-14,BKK,BJS,12348,CAN (to PKX),23kg,https://www.aviasales.ru/search/BKK1401PEK1
 2027-01-14,BKK,IST,27562,SHJ,,https://www.aviasales.ru/search/BKK1401IST1
 2027-01-14,BKK,MOW,47945,AMM,20kg,https://www.aviasales.ru/search/BKK1401MOW1
-2027-01-14,MNL,BJS,21132,XMN (to PKX),small bag only,https://www.aviasales.ru/search/MNL1401BJS1
-2027-01-14,SEL,BJS,11998,direct Asiana,23kg,https://www.aviasales.ru/search/SEL1401BJS1
+2027-01-14,MNL,BJS,18740,HKG (to PKX),7kg hand; 29343 with 20kg,https://www.aviasales.ru/search/MNL1401PEK1
+2027-01-14,SEL,BJS,11892,direct ICN→PEK,23kg,https://www.aviasales.ru/search/ICN1401PEK1
 2027-01-15,BJS,MOW,30071,SVX,10kg hand; 37056 with bag,https://www.aviasales.ru/search/BJS1501MOW1
 2027-01-15,BKK,MOW,45091,CAN+TAS (from DMK),no,https://www.aviasales.ru/search/BKK1501MOW1
 2027-01-15,CMB,MOW,49953,DXB,30kg,https://www.aviasales.ru/search/CMB1501MOW1
