@@ -34,9 +34,9 @@
    "date": "2027-01-02",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "29271",
-   "via": "direct Southwind SVO→IST",
-   "baggage": "8kg hand; 32091 with 20kg",
+   "price_rub": "28794",
+   "via": "GZP (Pobeda+Pegasus) VKO→SAW, прилёт 3.01 00:20",
+   "baggage": "no; 32630 with 10kg",
    "url": "https://www.aviasales.ru/search/MOW0201IST1",
    "id": 3
   },
@@ -104,9 +104,9 @@
    "date": "2027-01-03",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "25009",
+   "price_rub": "25381",
    "via": "AYT 1 stop → SAW (Pegasus), прилёт 4.01",
-   "baggage": "3kg; 29116 with 20kg; direct 29271",
+   "baggage": "3kg; 29041 with 15kg",
    "url": "https://www.aviasales.ru/search/MOW0301IST1",
    "id": 10
   },
@@ -344,9 +344,9 @@
    "date": "2027-01-06",
    "from": "IST",
    "to": "BKK",
-   "price_rub": "23773",
-   "via": "MCT (Oman Air)",
-   "baggage": "7kg hand; 25175 with 20kg",
+   "price_rub": "28398",
+   "via": "SHJ (Air Arabia), прилёт 7.01",
+   "baggage": "no; 30495 with 20kg; Turkish direct 45143",
    "url": "https://www.aviasales.ru/search/IST0601BKK1",
    "id": 34
   },
@@ -394,9 +394,9 @@
    "date": "2027-01-06",
    "from": "PEK",
    "to": "BKK",
-   "price_rub": "12258",
+   "price_rub": "12793",
    "via": "HKG (Cathay)",
-   "baggage": "23kg",
+   "baggage": "23kg; direct Air China 19170",
    "url": "https://www.aviasales.ru/search/PEK0501BKK1",
    "id": 39
   },
@@ -414,8 +414,8 @@
    "date": "2027-01-06",
    "from": "PEK",
    "to": "MNL",
-   "price_rub": "13512",
-   "via": "HKG (Cathay)",
+   "price_rub": "12628",
+   "via": "HKG",
    "baggage": "23kg",
    "url": "https://www.aviasales.ru/search/PEK0501MNL1",
    "id": 41
@@ -424,9 +424,9 @@
    "date": "2027-01-06",
    "from": "PEK",
    "to": "SEL",
-   "price_rub": "12675",
-   "via": "direct Korean Air",
-   "baggage": "23kg",
+   "price_rub": "12018",
+   "via": "direct Air China PKX→ICN",
+   "baggage": "23kg; Asiana direct 12340",
    "url": "https://www.aviasales.ru/search/PEK0501ICN1",
    "id": 42
   },
@@ -434,8 +434,8 @@
    "date": "2027-01-14",
    "from": "MNL",
    "to": "BJS",
-   "price_rub": "13251",
-   "via": "CAN (China Southern), прилёт 15.01 00:55",
+   "price_rub": "13661",
+   "via": "CAN, прилёт PKX 15.01 00:05",
    "baggage": "20kg",
    "url": "https://www.aviasales.ru/search/MNL1401PEK1",
    "id": 43
@@ -444,9 +444,9 @@
    "date": "2027-01-14",
    "from": "BKK",
    "to": "BJS",
-   "price_rub": "12348",
-   "via": "CAN (to PKX)",
-   "baggage": "23kg",
+   "price_rub": "12815",
+   "via": "CAN (China Southern, to PKX)",
+   "baggage": "20kg; direct Hainan 18920",
    "url": "https://www.aviasales.ru/search/BKK1401PEK1",
    "id": 44
   },
@@ -474,9 +474,9 @@
    "date": "2027-01-14",
    "from": "SEL",
    "to": "BJS",
-   "price_rub": "11853",
+   "price_rub": "11900",
    "via": "direct Asiana ICN→PEK",
-   "baggage": "10kg hand; 11900 with 23kg",
+   "baggage": "23kg",
    "url": "https://www.aviasales.ru/search/ICN1401PEK1",
    "id": 47
   },
@@ -494,9 +494,9 @@
    "date": "2027-01-15",
    "from": "BKK",
    "to": "MOW",
-   "price_rub": "45091",
-   "via": "CAN+TAS (from DMK)",
-   "baggage": "no",
+   "price_rub": "45469",
+   "via": "BOM+GYD, прилёт 16.01",
+   "baggage": "no; 50234 with 20kg",
    "url": "https://www.aviasales.ru/search/BKK1501MOW1",
    "id": 49
   },
@@ -576,7 +576,7 @@
    "to": "BJS",
    "price_rub": "47979",
    "via": "1 stop IKT/OVB (билет туда-обратно, обратно 15.01; прилёт 6.01)",
-   "baggage": "10kg hand; 67719 with 23kg; 52774 удобная пересадка, прилёт 5.01",
+   "baggage": "10kg hand; 67719 with 23kg",
    "url": "https://www.aviasales.ru/search/MOW0401BJS15011",
    "id": 57
   },
@@ -607,7 +607,7 @@
   {
    "city": "Касабланка",
    "code": "CMN",
-   "price": 66557,
+   "price": 66092,
    "url": "https://www.aviasales.ru/search/MOW0401CMN15011"
   },
   {
@@ -619,8 +619,14 @@
   {
    "city": "Сеул",
    "code": "SEL",
-   "price": 73996,
+   "price": 73217,
    "url": "https://www.aviasales.ru/search/MOW0401SEL15011"
+  },
+  {
+   "city": "Ханой",
+   "code": "HAN",
+   "price": 76010,
+   "url": "https://www.aviasales.ru/search/MOW0401HAN15011"
   },
   {
    "city": "Гоа",
@@ -635,27 +641,15 @@
    "url": "https://www.aviasales.ru/search/MOW0401HKT15011"
   },
   {
-   "city": "Манила",
-   "code": "MNL",
-   "price": 91489,
-   "url": "https://www.aviasales.ru/search/MOW0401MNL15011"
-  },
-  {
-   "city": "Ханой",
-   "code": "HAN",
-   "price": 92067,
-   "url": "https://www.aviasales.ru/search/MOW0401HAN15011"
-  },
-  {
    "city": "Хошимин",
    "code": "SGN",
-   "price": 99937,
+   "price": 91318,
    "url": "https://www.aviasales.ru/search/MOW0401SGN15011"
   },
   {
    "city": "Коломбо",
    "code": "CMB",
-   "price": 100597,
+   "price": 100103,
    "url": "https://www.aviasales.ru/search/MOW0401CMB15011"
   },
   {
@@ -665,22 +659,28 @@
    "url": "https://www.aviasales.ru/search/MOW0401CXR15011"
   },
   {
+   "city": "Манила",
+   "code": "MNL",
+   "price": 102633,
+   "url": "https://www.aviasales.ru/search/MOW0401MNL15011"
+  },
+  {
    "city": "Бангкок",
    "code": "BKK",
    "price": 104804,
    "url": "https://www.aviasales.ru/search/MOW0401BKK15011"
   },
   {
+   "city": "Занзибар",
+   "code": "ZNZ",
+   "price": 107351,
+   "url": "https://www.aviasales.ru/search/MOW0401ZNZ15011"
+  },
+  {
    "city": "Сейшелы",
    "code": "SEZ",
    "price": 113657,
    "url": "https://www.aviasales.ru/search/MOW0401SEZ15011"
-  },
-  {
-   "city": "Занзибар",
-   "code": "ZNZ",
-   "price": 118881,
-   "url": "https://www.aviasales.ru/search/MOW0401ZNZ15011"
   },
   {
    "city": "Йоханнесбург",
@@ -698,7 +698,7 @@
  "best": [
   {
    "name": "Сеул через Пекин",
-   "total": 72507,
+   "total": 71897,
    "path": [
     "MOW",
     "BJS",
@@ -719,7 +719,7 @@
      "to": "BJS",
      "price_rub": "47979",
      "via": "1 stop IKT/OVB (билет туда-обратно, обратно 15.01; прилёт 6.01)",
-     "baggage": "10kg hand; 67719 with 23kg; 52774 удобная пересадка, прилёт 5.01",
+     "baggage": "10kg hand; 67719 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -727,9 +727,9 @@
      "date": "2027-01-06",
      "from": "PEK",
      "to": "SEL",
-     "price_rub": "12675",
-     "via": "direct Korean Air",
-     "baggage": "23kg",
+     "price_rub": "12018",
+     "via": "direct Air China PKX→ICN",
+     "baggage": "23kg; Asiana direct 12340",
      "url": "https://www.aviasales.ru/search/PEK0501ICN1"
     },
     {
@@ -737,13 +737,13 @@
      "date": "2027-01-14",
      "from": "SEL",
      "to": "BJS",
-     "price_rub": "11853",
+     "price_rub": "11900",
      "via": "direct Asiana ICN→PEK",
-     "baggage": "10kg hand; 11900 with 23kg",
+     "baggage": "23kg",
      "url": "https://www.aviasales.ru/search/ICN1401PEK1"
     }
    ],
-   "total_card": 72500,
+   "total_card": 71900,
    "score": 90.4,
    "optimal": true,
    "reason": "дёшево, меньше всего пересадок (2), прямые рейсы Пекин ↔ Сеул с багажом туда",
@@ -753,7 +753,7 @@
   },
   {
    "name": "Бангкок через Пекин",
-   "total": 72585,
+   "total": 73587,
    "path": [
     "MOW",
     "BJS",
@@ -773,7 +773,7 @@
      "to": "BJS",
      "price_rub": "47979",
      "via": "1 stop IKT/OVB (билет туда-обратно, обратно 15.01; прилёт 6.01)",
-     "baggage": "10kg hand; 67719 with 23kg; 52774 удобная пересадка, прилёт 5.01",
+     "baggage": "10kg hand; 67719 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -781,9 +781,9 @@
      "date": "2027-01-06",
      "from": "PEK",
      "to": "BKK",
-     "price_rub": "12258",
+     "price_rub": "12793",
      "via": "HKG (Cathay)",
-     "baggage": "23kg",
+     "baggage": "23kg; direct Air China 19170",
      "url": "https://www.aviasales.ru/search/PEK0501BKK1"
     },
     {
@@ -791,13 +791,13 @@
      "date": "2027-01-14",
      "from": "BKK",
      "to": "BJS",
-     "price_rub": "12348",
-     "via": "CAN (to PKX)",
-     "baggage": "23kg",
+     "price_rub": "12815",
+     "via": "CAN (China Southern, to PKX)",
+     "baggage": "20kg; direct Hainan 18920",
      "url": "https://www.aviasales.ru/search/BKK1401PEK1"
     }
    ],
-   "total_card": 72600,
+   "total_card": 73600,
    "score": 100.5,
    "optimal": true,
    "reason": "самый дешёвый, 3 билета, багаж на рейсе Пекин → Бангкок, без смены аэропортов",
@@ -807,7 +807,7 @@
   },
   {
    "name": "Манила через Пекин",
-   "total": 74742,
+   "total": 74268,
    "path": [
     "MOW",
     "BJS",
@@ -828,7 +828,7 @@
      "to": "BJS",
      "price_rub": "47979",
      "via": "1 stop IKT/OVB (билет туда-обратно, обратно 15.01; прилёт 6.01)",
-     "baggage": "10kg hand; 67719 with 23kg; 52774 удобная пересадка, прилёт 5.01",
+     "baggage": "10kg hand; 67719 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -836,8 +836,8 @@
      "date": "2027-01-06",
      "from": "PEK",
      "to": "MNL",
-     "price_rub": "13512",
-     "via": "HKG (Cathay)",
+     "price_rub": "12628",
+     "via": "HKG",
      "baggage": "23kg",
      "url": "https://www.aviasales.ru/search/PEK0501MNL1"
     },
@@ -846,13 +846,13 @@
      "date": "2027-01-14",
      "from": "MNL",
      "to": "BJS",
-     "price_rub": "13251",
-     "via": "CAN (China Southern), прилёт 15.01 00:55",
+     "price_rub": "13661",
+     "via": "CAN, прилёт PKX 15.01 00:05",
      "baggage": "20kg",
      "url": "https://www.aviasales.ru/search/MNL1401PEK1"
     }
    ],
-   "total_card": 74700,
+   "total_card": 74300,
    "score": 102.3,
    "optimal": true,
    "reason": "дёшево и другое направление, багаж на рейсе Пекин → Манила, без смены аэропортов",
@@ -862,7 +862,7 @@
   },
   {
    "name": "Бангкок через Стамбул",
-   "total": 87059,
+   "total": 92062,
    "path": [
     "MOW",
     "IST",
@@ -890,9 +890,9 @@
      "date": "2027-01-06",
      "from": "IST",
      "to": "BKK",
-     "price_rub": "23773",
-     "via": "MCT (Oman Air)",
-     "baggage": "7kg hand; 25175 with 20kg",
+     "price_rub": "28398",
+     "via": "SHJ (Air Arabia), прилёт 7.01",
+     "baggage": "no; 30495 with 20kg; Turkish direct 45143",
      "url": "https://www.aviasales.ru/search/IST0601BKK1"
     },
     {
@@ -900,13 +900,13 @@
      "date": "2027-01-15",
      "from": "BKK",
      "to": "MOW",
-     "price_rub": "45091",
-     "via": "CAN+TAS (from DMK)",
-     "baggage": "no",
+     "price_rub": "45469",
+     "via": "BOM+GYD, прилёт 16.01",
+     "baggage": "no; 50234 with 20kg",
      "url": "https://www.aviasales.ru/search/BKK1501MOW1"
     }
    ],
-   "total_card": 87100,
+   "total_card": 92100,
    "score": 114.3,
    "optimal": false,
    "stops": 3,
@@ -915,7 +915,7 @@
   },
   {
    "name": "Бангкок через Стамбул (вылет 3 янв)",
-   "total": 95971,
+   "total": 96343,
    "path": [
     "MOW",
     "IST",
@@ -933,9 +933,9 @@
      "date": "2027-01-03",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "25009",
+     "price_rub": "25381",
      "via": "AYT 1 stop → SAW (Pegasus), прилёт 4.01",
-     "baggage": "3kg; 29116 with 20kg; direct 29271",
+     "baggage": "3kg; 29041 with 15kg",
      "url": "https://www.aviasales.ru/search/MOW0301IST1"
     },
     {
@@ -959,7 +959,7 @@
      "url": "https://www.aviasales.ru/search/BKK1401MOW1"
     }
    ],
-   "total_card": 96000,
+   "total_card": 96300,
    "score": 124.0,
    "optimal": false,
    "stops": 3,
@@ -1074,7 +1074,7 @@
   },
   {
    "name": "Хошимин через Стамбул (вылет 3 янв)",
-   "total": 102859,
+   "total": 103231,
    "path": [
     "MOW",
     "IST",
@@ -1092,9 +1092,9 @@
      "date": "2027-01-03",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "25009",
+     "price_rub": "25381",
      "via": "AYT 1 stop → SAW (Pegasus), прилёт 4.01",
-     "baggage": "3kg; 29116 with 20kg; direct 29271",
+     "baggage": "3kg; 29041 with 15kg",
      "url": "https://www.aviasales.ru/search/MOW0301IST1"
     },
     {
@@ -1118,7 +1118,7 @@
      "url": "https://www.aviasales.ru/search/SGN1501MOW1"
     }
    ],
-   "total_card": 102900,
+   "total_card": 103200,
    "score": 131.9,
    "optimal": false,
    "stops": 4,
@@ -1180,7 +1180,7 @@
   },
   {
    "name": "Коломбо (Шри-Ланка) через Стамбул (вылет 3 янв)",
-   "total": 110779,
+   "total": 111151,
    "path": [
     "MOW",
     "IST",
@@ -1198,9 +1198,9 @@
      "date": "2027-01-03",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "25009",
+     "price_rub": "25381",
      "via": "AYT 1 stop → SAW (Pegasus), прилёт 4.01",
-     "baggage": "3kg; 29116 with 20kg; direct 29271",
+     "baggage": "3kg; 29041 with 15kg",
      "url": "https://www.aviasales.ru/search/MOW0301IST1"
     },
     {
@@ -1224,7 +1224,7 @@
      "url": "https://www.aviasales.ru/search/CMB1501MOW1"
     }
    ],
-   "total_card": 110800,
+   "total_card": 111200,
    "score": 135.8,
    "optimal": false,
    "stops": 3,
@@ -1445,5 +1445,5 @@
    "risk": 0
   }
  ],
- "updated": "15.10.2026"
+ "updated": "16.10.2026"
 }
