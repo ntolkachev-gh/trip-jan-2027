@@ -574,10 +574,10 @@
    "date": "2027-01-04",
    "from": "MOW",
    "to": "BJS",
-   "price_rub": "70805",
-   "via": "1 stop TAS, Uzbekistan Airways (билет туда-обратно, обратно 15.01; прилёт 5.01)",
-   "baggage": "10kg hand; 83965 with 23kg; direct Air China 91646 with 23kg",
-   "url": "https://www.aviasales.ru/search/MOW0401BJS15011",
+   "price_rub": "40318",
+   "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
+   "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 57
   },
   {
@@ -593,9 +593,15 @@
  ],
  "roundtrips": [
   {
+   "city": "Пекин",
+   "code": "BJS",
+   "price": 40318,
+   "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
+  },
+  {
    "city": "Касабланка",
    "code": "CMN",
-   "price": 68252,
+   "price": 62774,
    "url": "https://www.aviasales.ru/search/MOW0401CMN15011"
   },
   {
@@ -605,10 +611,10 @@
    "url": "https://www.aviasales.ru/search/MOW0401RAK15011"
   },
   {
-   "city": "Пекин",
-   "code": "BJS",
-   "price": 70805,
-   "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
+   "city": "Сеул",
+   "code": "SEL",
+   "price": 74286,
+   "url": "https://www.aviasales.ru/search/MOW0401SEL15011"
   },
   {
    "city": "Гоа",
@@ -621,12 +627,6 @@
    "code": "KUL",
    "price": 82660,
    "url": "https://www.aviasales.ru/search/MOW0401KUL15011"
-  },
-  {
-   "city": "Сеул",
-   "code": "SEL",
-   "price": 82776,
-   "url": "https://www.aviasales.ru/search/MOW0401SEL15011"
   },
   {
    "city": "Шанхай",
@@ -710,7 +710,7 @@
  "best": [
   {
    "name": "Сеул через Пекин",
-   "total": 94301,
+   "total": 63814,
    "path": [
     "MOW",
     "BJS",
@@ -729,10 +729,10 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "70805",
-     "via": "1 stop TAS, Uzbekistan Airways (билет туда-обратно, обратно 15.01; прилёт 5.01)",
-     "baggage": "10kg hand; 83965 with 23kg; direct Air China 91646 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
+     "price_rub": "40318",
+     "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
+     "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
      "id": 42,
@@ -755,7 +755,7 @@
      "url": "https://www.aviasales.ru/search/ICN1401PEK1"
     }
    ],
-   "total_card": 94300,
+   "total_card": 63800,
    "score": 90.4,
    "optimal": true,
    "reason": "дёшево, меньше всего пересадок (2), прямые рейсы Пекин ↔ Сеул с багажом туда",
@@ -765,7 +765,7 @@
   },
   {
    "name": "Бангкок через Пекин",
-   "total": 95603,
+   "total": 65116,
    "path": [
     "MOW",
     "BJS",
@@ -783,10 +783,10 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "70805",
-     "via": "1 stop TAS, Uzbekistan Airways (билет туда-обратно, обратно 15.01; прилёт 5.01)",
-     "baggage": "10kg hand; 83965 with 23kg; direct Air China 91646 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
+     "price_rub": "40318",
+     "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
+     "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
      "id": 39,
@@ -809,7 +809,7 @@
      "url": "https://www.aviasales.ru/search/BKK1401PEK1"
     }
    ],
-   "total_card": 95600,
+   "total_card": 65100,
    "score": 100.5,
    "optimal": true,
    "reason": "самый дешёвый, 3 билета, багаж на рейсе Пекин → Бангкок, без смены аэропортов",
@@ -819,7 +819,7 @@
   },
   {
    "name": "Манила через Пекин",
-   "total": 95952,
+   "total": 65465,
    "path": [
     "MOW",
     "BJS",
@@ -838,10 +838,10 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "70805",
-     "via": "1 stop TAS, Uzbekistan Airways (билет туда-обратно, обратно 15.01; прилёт 5.01)",
-     "baggage": "10kg hand; 83965 with 23kg; direct Air China 91646 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
+     "price_rub": "40318",
+     "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
+     "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
      "id": 41,
@@ -864,7 +864,7 @@
      "url": "https://www.aviasales.ru/search/MNL1401PEK1"
     }
    ],
-   "total_card": 96000,
+   "total_card": 65500,
    "score": 102.3,
    "optimal": true,
    "reason": "дёшево и другое направление, багаж на рейсе Пекин → Манила, без смены аэропортов",

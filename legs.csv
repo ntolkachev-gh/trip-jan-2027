@@ -25,7 +25,7 @@ date,from,to,price_rub,via,baggage,url
 2027-01-04,LED,BJS,57363,"IKT+OVB (билет туда-обратно, обратно 15.01)",10kg hand; 78513 with 23kg,https://www.aviasales.ru/search/LED0401BJS15011
 2027-01-04,LED,TAS,21843,,,https://www.aviasales.ru/search/LED0401TAS1
 2027-01-04,MOW,BJS,25904,IKT (S7),no; 35074 with 23kg,https://www.aviasales.ru/search/MOW0401BJS1
-2027-01-04,MOW,BJS,70805,"1 stop TAS, Uzbekistan Airways (билет туда-обратно, обратно 15.01; прилёт 5.01)",10kg hand; 83965 with 23kg; direct Air China 91646 with 23kg,https://www.aviasales.ru/search/MOW0401BJS15011
+2027-01-04,MOW,BJS,40318,"Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",no; ~52020 with 10kg; direct Air China 91646 with 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
 2027-01-04,MOW,DOH,32674,,,https://www.aviasales.ru/search/MOW0401DOH1
 2027-01-04,MOW,IST,18195,direct DME 11:00 → IST 16:20,no; 25430 with 23kg,https://www.aviasales.ru/search/MOW0401IST1
 2027-01-04,MOW,PEK,38827,direct Hainan,23kg,https://www.aviasales.ru/search/MOW0401PEK1
