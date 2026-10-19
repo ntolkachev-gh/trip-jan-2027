@@ -35,7 +35,7 @@
    "from": "MOW",
    "to": "IST",
    "price_rub": "29271",
-   "via": "direct SVO 00:50 → IST 04:35",
+   "via": "direct Southwind SVO 00:50 → IST 04:35",
    "baggage": "no; 32091 with 20kg",
    "url": "https://www.aviasales.ru/search/MOW0201IST1",
    "id": 3
@@ -105,8 +105,8 @@
    "from": "MOW",
    "to": "IST",
    "price_rub": "28185",
-   "via": "CIT, VKO 19:00 → прилёт 4.01",
-   "baggage": "no; 32065 with 23kg; direct 29271",
+   "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
+   "baggage": "no; 31970 with 23kg; direct 29271",
    "url": "https://www.aviasales.ru/search/MOW0301IST1",
    "id": 10
   },
@@ -265,7 +265,7 @@
    "from": "MOW",
    "to": "IST",
    "price_rub": "18195",
-   "via": "direct DME 11:00 → IST 16:20",
+   "via": "direct S7 DME 11:00 → IST 16:20",
    "baggage": "no; 25430 with 23kg",
    "url": "https://www.aviasales.ru/search/MOW0401IST1",
    "id": 26
@@ -575,8 +575,8 @@
    "from": "MOW",
    "to": "BJS",
    "price_rub": "40318",
-   "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
-   "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+   "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
+   "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
    "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 57
   },
@@ -599,34 +599,28 @@
    "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
   },
   {
+   "city": "Касабланка (из Петербурга)",
+   "code": "LEDCMN",
+   "price": 50994,
+   "url": "https://www.aviasales.ru/search/LED0401CMN15011"
+  },
+  {
    "city": "Касабланка",
    "code": "CMN",
-   "price": 62774,
+   "price": 66218,
    "url": "https://www.aviasales.ru/search/MOW0401CMN15011"
   },
   {
    "city": "Марракеш",
    "code": "RAK",
-   "price": 70508,
+   "price": 68714,
    "url": "https://www.aviasales.ru/search/MOW0401RAK15011"
-  },
-  {
-   "city": "Сеул",
-   "code": "SEL",
-   "price": 74286,
-   "url": "https://www.aviasales.ru/search/MOW0401SEL15011"
   },
   {
    "city": "Гоа",
    "code": "GOI",
    "price": 81946,
    "url": "https://www.aviasales.ru/search/MOW0401GOI15011"
-  },
-  {
-   "city": "Куала-Лумпур",
-   "code": "KUL",
-   "price": 82660,
-   "url": "https://www.aviasales.ru/search/MOW0401KUL15011"
   },
   {
    "city": "Шанхай",
@@ -641,10 +635,16 @@
    "url": "https://www.aviasales.ru/search/MOW0401HKT15011"
   },
   {
-   "city": "Хошимин",
-   "code": "SGN",
-   "price": 87476,
-   "url": "https://www.aviasales.ru/search/MOW0401SGN15011"
+   "city": "Сеул",
+   "code": "SEL",
+   "price": 85046,
+   "url": "https://www.aviasales.ru/search/MOW0401SEL15011"
+  },
+  {
+   "city": "Куала-Лумпур",
+   "code": "KUL",
+   "price": 97407,
+   "url": "https://www.aviasales.ru/search/MOW0401KUL15011"
   },
   {
    "city": "Нячанг",
@@ -667,7 +667,7 @@
   {
    "city": "Бангкок",
    "code": "BKK",
-   "price": 107885,
+   "price": 106930,
    "url": "https://www.aviasales.ru/search/MOW0401BKK15011"
   },
   {
@@ -693,6 +693,12 @@
    "code": "CMB",
    "price": 116848,
    "url": "https://www.aviasales.ru/search/MOW0401CMB15011"
+  },
+  {
+   "city": "Хошимин",
+   "code": "SGN",
+   "price": 122201,
+   "url": "https://www.aviasales.ru/search/MOW0401SGN15011"
   },
   {
    "city": "Йоханнесбург",
@@ -730,8 +736,8 @@
      "from": "MOW",
      "to": "BJS",
      "price_rub": "40318",
-     "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
-     "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
+     "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
@@ -784,8 +790,8 @@
      "from": "MOW",
      "to": "BJS",
      "price_rub": "40318",
-     "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
-     "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
+     "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
@@ -839,8 +845,8 @@
      "from": "MOW",
      "to": "BJS",
      "price_rub": "40318",
-     "via": "Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",
-     "baggage": "no; ~52020 with 10kg; direct Air China 91646 with 23kg",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
+     "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
@@ -893,8 +899,8 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "28185",
-     "via": "CIT, VKO 19:00 → прилёт 4.01",
-     "baggage": "no; 32065 with 23kg; direct 29271",
+     "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
+     "baggage": "no; 31970 with 23kg; direct 29271",
      "url": "https://www.aviasales.ru/search/MOW0301IST1"
     },
     {
@@ -946,7 +952,7 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "18195",
-     "via": "direct DME 11:00 → IST 16:20",
+     "via": "direct S7 DME 11:00 → IST 16:20",
      "baggage": "no; 25430 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401IST1"
     },
@@ -999,7 +1005,7 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "18195",
-     "via": "direct DME 11:00 → IST 16:20",
+     "via": "direct S7 DME 11:00 → IST 16:20",
      "baggage": "no; 25430 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401IST1"
     },
@@ -1052,7 +1058,7 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "18195",
-     "via": "direct DME 11:00 → IST 16:20",
+     "via": "direct S7 DME 11:00 → IST 16:20",
      "baggage": "no; 25430 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401IST1"
     },
@@ -1105,7 +1111,7 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "18195",
-     "via": "direct DME 11:00 → IST 16:20",
+     "via": "direct S7 DME 11:00 → IST 16:20",
      "baggage": "no; 25430 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401IST1"
     },
@@ -1158,8 +1164,8 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "28185",
-     "via": "CIT, VKO 19:00 → прилёт 4.01",
-     "baggage": "no; 32065 with 23kg; direct 29271",
+     "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
+     "baggage": "no; 31970 with 23kg; direct 29271",
      "url": "https://www.aviasales.ru/search/MOW0301IST1"
     },
     {
@@ -1264,8 +1270,8 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "28185",
-     "via": "CIT, VKO 19:00 → прилёт 4.01",
-     "baggage": "no; 32065 with 23kg; direct 29271",
+     "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
+     "baggage": "no; 31970 with 23kg; direct 29271",
      "url": "https://www.aviasales.ru/search/MOW0301IST1"
     },
     {
@@ -1317,7 +1323,7 @@
      "from": "MOW",
      "to": "IST",
      "price_rub": "18195",
-     "via": "direct DME 11:00 → IST 16:20",
+     "via": "direct S7 DME 11:00 → IST 16:20",
      "baggage": "no; 25430 with 23kg",
      "url": "https://www.aviasales.ru/search/MOW0401IST1"
     },
@@ -1457,5 +1463,5 @@
    "risk": 0
   }
  ],
- "updated": "18.10.2026"
+ "updated": "19.10.2026"
 }

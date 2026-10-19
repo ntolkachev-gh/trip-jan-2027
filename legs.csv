@@ -2,14 +2,14 @@ date,from,to,price_rub,via,baggage,url
 2027-01-02,LED,SAW,18650,via Moscow SVO→VKO airport change,,https://www.aviasales.ru/search/LED0201IST1
 2027-01-02,LED,SAW,33156,direct Pegasus,,https://www.aviasales.ru/search/LED0201SAW1
 2027-01-02,MOW,CMN,38931,,,https://www.aviasales.ru/search/MOW0201CMN1
-2027-01-02,MOW,IST,29271,direct SVO 00:50 → IST 04:35,no; 32091 with 20kg,https://www.aviasales.ru/search/MOW0201IST1
+2027-01-02,MOW,IST,29271,direct Southwind SVO 00:50 → IST 04:35,no; 32091 with 20kg,https://www.aviasales.ru/search/MOW0201IST1
 2027-01-02,MOW,SAW,33221,direct Pegasus,,https://www.aviasales.ru/search/MOW0201SAW1
 2027-01-03,LED,IST,23546,S7 via DME,no,https://www.aviasales.ru/search/LED0301IST1
 2027-01-03,LED,IST,27626,direct Southwind,no; 30760 with 20kg,https://www.aviasales.ru/search/LED0301IST1
 2027-01-03,MOW,ALA,18709,,,https://www.aviasales.ru/search/MOW0301ALA1
 2027-01-03,MOW,DEL,37664,,,https://www.aviasales.ru/search/MOW0301DEL1
 2027-01-03,MOW,GYD,28209,,,https://www.aviasales.ru/search/MOW0301GYD1
-2027-01-03,MOW,IST,28185,"CIT, VKO 19:00 → прилёт 4.01",no; 32065 with 23kg; direct 29271,https://www.aviasales.ru/search/MOW0301IST1
+2027-01-03,MOW,IST,28185,"SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",no; 31970 with 23kg; direct 29271,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,IST,29271,direct cheapest alt,see id 10 for via AYT,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,IST,31052,direct Pobeda,,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,IST,39079,direct Turkish,bag incl,https://www.aviasales.ru/search/MOW0301IST1
@@ -25,9 +25,9 @@ date,from,to,price_rub,via,baggage,url
 2027-01-04,LED,BJS,57363,"IKT+OVB (билет туда-обратно, обратно 15.01)",10kg hand; 78513 with 23kg,https://www.aviasales.ru/search/LED0401BJS15011
 2027-01-04,LED,TAS,21843,,,https://www.aviasales.ru/search/LED0401TAS1
 2027-01-04,MOW,BJS,25904,IKT (S7),no; 35074 with 23kg,https://www.aviasales.ru/search/MOW0401BJS1
-2027-01-04,MOW,BJS,40318,"Купибилет: 1 stop SVX, долгие стыковки (билет туда-обратно, обратно 15.01); Aviasales 70805 via TAS",no; ~52020 with 10kg; direct Air China 91646 with 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-04,MOW,BJS,40318,"Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",no; +11810 for 10kg; Aviasales 67073 with 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
 2027-01-04,MOW,DOH,32674,,,https://www.aviasales.ru/search/MOW0401DOH1
-2027-01-04,MOW,IST,18195,direct DME 11:00 → IST 16:20,no; 25430 with 23kg,https://www.aviasales.ru/search/MOW0401IST1
+2027-01-04,MOW,IST,18195,direct S7 DME 11:00 → IST 16:20,no; 25430 with 23kg,https://www.aviasales.ru/search/MOW0401IST1
 2027-01-04,MOW,PEK,38827,direct Hainan,23kg,https://www.aviasales.ru/search/MOW0401PEK1
 2027-01-05,ALA,BKK,27186,,,https://www.aviasales.ru/search/ALA0501BKK1
 2027-01-05,IST,BKK,26663,Oman Air via MCT,bag incl,https://www.aviasales.ru/search/IST0501BKK1
