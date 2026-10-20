@@ -34,10 +34,10 @@
    "date": "2027-01-02",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "29271",
-   "via": "direct Southwind SVO 00:50 → IST 04:35",
-   "baggage": "no; 32091 with 20kg",
-   "url": "https://www.aviasales.ru/search/MOW0201IST1",
+   "price_rub": "28722",
+   "via": "direct Southwind SVO 00:50 → IST 04:35; дешевле 26930 через GZP → SAW (прилёт 3.01 00:20)",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-02_date_2027-01-02_iatax:IST&cabinClass=Y",
    "id": 3
   },
   {
@@ -54,10 +54,10 @@
    "date": "2027-01-03",
    "from": "LED",
    "to": "IST",
-   "price_rub": "23546",
-   "via": "S7 via DME",
-   "baggage": "no",
-   "url": "https://www.aviasales.ru/search/LED0301IST1",
+   "price_rub": "23371",
+   "via": "via MOW, LED 18:45 → IST 4.01 16:20",
+   "baggage": "no; 31551 with 23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y",
    "id": 5
   },
   {
@@ -104,30 +104,30 @@
    "date": "2027-01-03",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "28185",
-   "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
-   "baggage": "no; 31970 with 23kg; direct 29271",
-   "url": "https://www.aviasales.ru/search/MOW0301IST1",
+   "price_rub": "26621",
+   "via": "GZP, VKO 07:00 → SAW 4.01 13:10 (Aviasales 19.10: SCAT via CIT 28185)",
+   "baggage": "no; +3494 for 10kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y",
    "id": 10
   },
   {
    "date": "2027-01-03",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "29271",
-   "via": "direct cheapest alt",
-   "baggage": "see id 10 for via AYT",
-   "url": "https://www.aviasales.ru/search/MOW0301IST1",
+   "price_rub": "28722",
+   "via": "direct Southwind SVO 00:50 → IST 04:35",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y",
    "id": 11
   },
   {
    "date": "2027-01-03",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "31052",
+   "price_rub": "30239",
    "via": "direct Pobeda",
    "baggage": "",
-   "url": "https://www.aviasales.ru/search/MOW0301IST1",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y",
    "id": 12
   },
   {
@@ -154,10 +154,10 @@
    "date": "2027-01-04",
    "from": "IST",
    "to": "BKK",
-   "price_rub": "23017",
-   "via": "SAW→MCT+SHJ",
-   "baggage": "no; 26548 with 12kg",
-   "url": "https://www.aviasales.ru/search/IST0401BKK1",
+   "price_rub": "29890",
+   "via": "CAN, IST 14:25 → BKK 5.01 11:25 (Aviasales 19.10: 23017 via MCT+SHJ)",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:BKK&cabinClass=Y",
    "id": 15
   },
   {
@@ -174,60 +174,60 @@
    "date": "2027-01-04",
    "from": "IST",
    "to": "CMB",
-   "price_rub": "35817",
-   "via": "AUH",
-   "baggage": "bag",
-   "url": "https://www.aviasales.ru/search/IST0401CMB1",
+   "price_rub": "21492",
+   "via": "KWI, SAW 14:50 → CMB 6.01 01:45",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:CMB&cabinClass=Y",
    "id": 17
   },
   {
    "date": "2027-01-04",
    "from": "IST",
    "to": "HKT",
-   "price_rub": "39042",
-   "via": "BKK",
-   "baggage": "bag",
-   "url": "https://www.aviasales.ru/search/IST0401HKT1",
+   "price_rub": "26477",
+   "via": "KWI, SAW 14:50 → HKT 5.01 14:55",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:HKT&cabinClass=Y",
    "id": 18
   },
   {
    "date": "2027-01-04",
    "from": "IST",
    "to": "MRU",
-   "price_rub": "55851",
-   "via": "DXB",
-   "baggage": "bag",
-   "url": "https://www.aviasales.ru/search/IST0401MRU1",
+   "price_rub": "52705",
+   "via": "DXB, SAW 14:20 → MRU 5.01 17:10",
+   "baggage": "2×23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:MRU&cabinClass=Y",
    "id": 19
   },
   {
    "date": "2027-01-04",
    "from": "IST",
    "to": "SGN",
-   "price_rub": "31621",
-   "via": "CAN",
-   "baggage": "bag",
-   "url": "https://www.aviasales.ru/search/IST0401SGN1",
+   "price_rub": "37428",
+   "via": "CAN+KUL, IST 14:25 → SGN 5.01 20:00",
+   "baggage": "no; +2507 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:SGN&cabinClass=Y",
    "id": 20
   },
   {
    "date": "2027-01-04",
    "from": "IST",
    "to": "ZNZ",
-   "price_rub": "45187",
-   "via": "DOH",
-   "baggage": "bag",
-   "url": "https://www.aviasales.ru/search/IST0401ZNZ1",
+   "price_rub": "33996",
+   "via": "SSH, SAW 01:20 → ZNZ 5.01 08:40",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:ZNZ&cabinClass=Y",
    "id": 21
   },
   {
    "date": "2027-01-04",
    "from": "LED",
    "to": "BJS",
-   "price_rub": "29646",
-   "via": "IKT",
-   "baggage": "no; 39391 with 23kg",
-   "url": "https://www.aviasales.ru/search/LED0401BJS1",
+   "price_rub": "27257",
+   "via": "OVB, LED 16:30 → PKX 6.01 05:00",
+   "baggage": "no; +10559 for 23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-04_date_2027-01-04_iatax:BJS&cabinClass=Y",
    "id": 22
   },
   {
@@ -244,10 +244,10 @@
    "date": "2027-01-04",
    "from": "MOW",
    "to": "BJS",
-   "price_rub": "25904",
-   "via": "IKT (S7)",
-   "baggage": "no; 35074 with 23kg",
-   "url": "https://www.aviasales.ru/search/MOW0401BJS1",
+   "price_rub": "25049",
+   "via": "SVX, DME 08:25 → PKX 5.01 03:55",
+   "baggage": "no; +5590 for 10kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&cabinClass=Y",
    "id": 24
   },
   {
@@ -264,10 +264,10 @@
    "date": "2027-01-04",
    "from": "MOW",
    "to": "IST",
-   "price_rub": "18195",
+   "price_rub": "18270",
    "via": "direct S7 DME 11:00 → IST 16:20",
-   "baggage": "no; 25430 with 23kg",
-   "url": "https://www.aviasales.ru/search/MOW0401IST1",
+   "baggage": "no; 25525 with 23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y",
    "id": 26
   },
   {
@@ -344,220 +344,220 @@
    "date": "2027-01-06",
    "from": "IST",
    "to": "BKK",
-   "price_rub": "28870",
-   "via": "SHJ, прилёт 7.01",
-   "baggage": "no; 31447 with 20kg",
-   "url": "https://www.aviasales.ru/search/IST0601BKK1",
+   "price_rub": "27955",
+   "via": "SHJ, IST 18:40 → BKK 7.01 17:05",
+   "baggage": "no; +1783 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:BKK&cabinClass=Y",
    "id": 34
   },
   {
    "date": "2027-01-06",
    "from": "IST",
    "to": "CMB",
-   "price_rub": "35792",
-   "via": "AUH",
-   "baggage": "25kg",
-   "url": "https://www.aviasales.ru/search/IST0601CMB1",
+   "price_rub": "22001",
+   "via": "KWI, IST 14:30 → CMB 7.01 07:20",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:CMB&cabinClass=Y",
    "id": 35
   },
   {
    "date": "2027-01-06",
    "from": "IST",
    "to": "HKT",
-   "price_rub": "39042",
-   "via": "BKK",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/IST0601HKT1",
+   "price_rub": "30035",
+   "via": "MCT+AUH, SAW 21:30 → HKT 7.01 23:50",
+   "baggage": "no; +4959 for 12kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:HKT&cabinClass=Y",
    "id": 36
   },
   {
    "date": "2027-01-06",
    "from": "IST",
    "to": "SGN",
-   "price_rub": "35528",
-   "via": "ASB",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/IST0601SGN1",
+   "price_rub": "33067",
+   "via": "KUL, SAW 17:20 → SGN 7.01 20:00",
+   "baggage": "no; +5847 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:SGN&cabinClass=Y",
    "id": 37
   },
   {
    "date": "2027-01-06",
    "from": "IST",
    "to": "ZNZ",
-   "price_rub": "42235",
-   "via": "DOH",
-   "baggage": "2 bags",
-   "url": "https://www.aviasales.ru/search/IST0601ZNZ1",
+   "price_rub": "28987",
+   "via": "SSH, SAW 23:55 → ZNZ 8.01 08:10",
+   "baggage": "no",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:ZNZ&cabinClass=Y",
    "id": 38
   },
   {
    "date": "2027-01-06",
    "from": "PEK",
    "to": "BKK",
-   "price_rub": "12770",
-   "via": "HKG Cathay Pacific, прилёт 5.01",
-   "baggage": "23kg; direct Air China 18407",
-   "url": "https://www.aviasales.ru/search/PEK0501BKK1",
+   "price_rub": "10982",
+   "via": "SZX, PKX 17:00 → BKK 7.01 01:40; прямой Air China от 14713",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:BKK&cabinClass=Y",
    "id": 39
   },
   {
    "date": "2027-01-06",
    "from": "PEK",
    "to": "DPS",
-   "price_rub": "23055",
-   "via": "SGN",
+   "price_rub": "14885",
+   "via": "HKG, PEK 03:25 → DPS 15:20",
    "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0601DPS1",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:DPS&cabinClass=Y",
    "id": 40
   },
   {
    "date": "2027-01-06",
    "from": "PEK",
    "to": "MNL",
-   "price_rub": "11972",
-   "via": "HKG, прилёт 6.01",
+   "price_rub": "11659",
+   "via": "HKG, PEK 03:25 → MNL 11:20",
    "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0501MNL1",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:MNL&cabinClass=Y",
    "id": 41
   },
   {
    "date": "2027-01-06",
    "from": "PEK",
    "to": "SEL",
-   "price_rub": "11822",
-   "via": "direct Air China PEK→ICN",
+   "price_rub": "11269",
+   "via": "direct Air China PEK 19:00 → ICN 21:55",
    "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/PEK0501ICN1",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:SEL&cabinClass=Y",
    "id": 42
   },
   {
    "date": "2027-01-14",
    "from": "MNL",
    "to": "BJS",
-   "price_rub": "13175",
-   "via": "CAN, прилёт PKX 15.01 00:05",
-   "baggage": "20kg",
-   "url": "https://www.aviasales.ru/search/MNL1401PEK1",
+   "price_rub": "13104",
+   "via": "CAN, MNL 08:20 → PKX 15.01 00:55",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MNL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y",
    "id": 43
   },
   {
    "date": "2027-01-14",
    "from": "BKK",
    "to": "BJS",
-   "price_rub": "12028",
-   "via": "CAN, прилёт PKX 21:00",
-   "baggage": "23kg; direct 17005",
-   "url": "https://www.aviasales.ru/search/BKK1401PEK1",
+   "price_rub": "11987",
+   "via": "CAN, BKK 02:10 → PKX 12:00; прямой China Eastern от 15942",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y",
    "id": 44
   },
   {
    "date": "2027-01-14",
    "from": "BKK",
    "to": "IST",
-   "price_rub": "27562",
-   "via": "SHJ",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/BKK1401IST1",
+   "price_rub": "28849",
+   "via": "KUL, DMK 15:10 → SAW 15.01 16:05",
+   "baggage": "no; +5637 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:IST&cabinClass=Y",
    "id": 45
   },
   {
    "date": "2027-01-14",
    "from": "BKK",
    "to": "MOW",
-   "price_rub": "47945",
-   "via": "AMM",
-   "baggage": "20kg",
-   "url": "https://www.aviasales.ru/search/BKK1401MOW1",
+   "price_rub": "40134",
+   "via": "BOM+BAK, BKK 20:40 → DME 16.01 12:05",
+   "baggage": "no; +13001 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:MOW&cabinClass=Y",
    "id": 46
   },
   {
    "date": "2027-01-14",
    "from": "SEL",
    "to": "BJS",
-   "price_rub": "11674",
-   "via": "direct ICN→PEK",
+   "price_rub": "11040",
+   "via": "direct Asiana GMP 08:35 → PEK 09:45",
    "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/ICN1401PEK1",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SEL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y",
    "id": 47
   },
   {
    "date": "2027-01-15",
    "from": "BJS",
    "to": "MOW",
-   "price_rub": "30071",
-   "via": "SVX",
-   "baggage": "10kg hand; 37056 with bag",
-   "url": "https://www.aviasales.ru/search/BJS1501MOW1",
+   "price_rub": "27864",
+   "via": "SVX, PKX 04:55 → DME 16.01 07:25",
+   "baggage": "no; +6327 for 10kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 48
   },
   {
    "date": "2027-01-15",
    "from": "BKK",
    "to": "MOW",
-   "price_rub": "54252",
-   "via": "SHJ, прилёт DME 16.01",
-   "baggage": "no",
-   "url": "https://www.aviasales.ru/search/BKK1501MOW1",
+   "price_rub": "45797",
+   "via": "CAN+TAS, DMK 21:50 → DME 16.01 14:25",
+   "baggage": "no; +9996 for 5kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 49
   },
   {
    "date": "2027-01-15",
    "from": "CMB",
    "to": "MOW",
-   "price_rub": "49953",
-   "via": "DXB",
-   "baggage": "30kg",
-   "url": "https://www.aviasales.ru/search/CMB1501MOW1",
+   "price_rub": "43809",
+   "via": "SHJ+IST, CMB 14:35 → SVO 16.01 23:50",
+   "baggage": "no; +5180 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:CMB_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 50
   },
   {
    "date": "2027-01-15",
    "from": "HKT",
    "to": "MOW",
-   "price_rub": "44167",
-   "via": "BOM+GYD",
-   "baggage": "no",
-   "url": "https://www.aviasales.ru/search/HKT1501MOW1",
+   "price_rub": "42287",
+   "via": "BOM+BAK, HKT 20:55 → DME 16.01 12:05",
+   "baggage": "no; +4615 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HKT_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 51
   },
   {
    "date": "2027-01-15",
    "from": "MRU",
    "to": "MOW",
-   "price_rub": "74184",
-   "via": "DXB",
-   "baggage": "bag",
-   "url": "https://www.aviasales.ru/search/MRU1501MOW1",
+   "price_rub": "51609",
+   "via": "BLR+BOM+BAK, MRU 09:30 → DME 16.01 12:05",
+   "baggage": "no; +5383 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MRU_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 52
   },
   {
    "date": "2027-01-15",
    "from": "SGN",
    "to": "MOW",
-   "price_rub": "46229",
-   "via": "CKG+URC",
-   "baggage": "23kg",
-   "url": "https://www.aviasales.ru/search/SGN1501MOW1",
+   "price_rub": "45583",
+   "via": "CAN+TAS, SGN 21:45 → VKO 16.01 16:15",
+   "baggage": "no; +10523 bag",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 53
   },
   {
    "date": "2027-01-15",
    "from": "ZNZ",
    "to": "MOW",
-   "price_rub": "61471",
-   "via": "NBO+DXB/DWC",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/ZNZ1501MOW1",
+   "price_rub": "46333",
+   "via": "HRG+IZM, ZNZ 09:10 → VKO 17.01 03:25",
+   "baggage": "no; +3269 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:ZNZ_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 54
   },
   {
    "date": "2027-01-16",
    "from": "IST",
    "to": "MOW",
-   "price_rub": "16869",
-   "via": "direct",
-   "baggage": "",
-   "url": "https://www.aviasales.ru/search/IST1601MOW1",
+   "price_rub": "12825",
+   "via": "AYT, SAW 05:35 → VKO 17.01 14:15; прямой Southwind от 14729",
+   "baggage": "no; +2296 for 12kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-16_date_2027-01-16_iatax:MOW&cabinClass=Y",
    "id": 55
   },
   {
@@ -575,8 +575,8 @@
    "from": "MOW",
    "to": "BJS",
    "price_rub": "40318",
-   "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
-   "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
+   "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+   "baggage": "no; +12635 for 10kg",
    "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y",
    "id": 57
   },
@@ -584,11 +584,77 @@
    "date": "2027-01-04",
    "from": "LED",
    "to": "BJS",
-   "price_rub": "57363",
-   "via": "IKT+OVB (билет туда-обратно, обратно 15.01)",
-   "baggage": "10kg hand; 78513 with 23kg",
-   "url": "https://www.aviasales.ru/search/LED0401BJS15011",
+   "price_rub": "49339",
+   "via": "OVB (туда-обратно, обратно 15.01), LED 16:30 → PKX 6.01 05:00, обратно PKX 06:05 → LED 12:20",
+   "baggage": "no; +19645 for 23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:LED&cabinClass=Y",
    "id": 58
+  },
+  {
+   "id": 59,
+   "src": "1020",
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "SGN",
+   "price_rub": "9597",
+   "via": "direct Vietjet PKX 23:00 → SGN 7.01 03:05",
+   "baggage": "no; +863 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:SGN&cabinClass=Y"
+  },
+  {
+   "id": 60,
+   "src": "1020",
+   "date": "2027-01-14",
+   "from": "SGN",
+   "to": "BJS",
+   "price_rub": "11160",
+   "via": "CAN, SGN 11:55 → PKX 21:00",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
+  },
+  {
+   "id": 61,
+   "src": "1020",
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "HAN",
+   "price_rub": "9904",
+   "via": "direct Vietjet PKX 23:15 → HAN 7.01 02:05",
+   "baggage": "no; +1292 for 20kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:HAN&cabinClass=Y"
+  },
+  {
+   "id": 62,
+   "src": "1020",
+   "date": "2027-01-14",
+   "from": "HAN",
+   "to": "BJS",
+   "price_rub": "10809",
+   "via": "SZX, HAN 14:40 → PKX 22:40",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HAN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
+  },
+  {
+   "id": 63,
+   "src": "1020",
+   "date": "2027-01-06",
+   "from": "PEK",
+   "to": "KUL",
+   "price_rub": "11836",
+   "via": "HKG, PEK 07:30 → KUL 16:50",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:KUL&cabinClass=Y"
+  },
+  {
+   "id": 64,
+   "src": "1020",
+   "date": "2027-01-14",
+   "from": "KUL",
+   "to": "BJS",
+   "price_rub": "11995",
+   "via": "SZX, KUL 01:30 → PKX 12:45",
+   "baggage": "23kg",
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:KUL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
   }
  ],
  "roundtrips": [
@@ -596,13 +662,31 @@
    "city": "Пекин",
    "code": "BJS",
    "price": 40318,
-   "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Пекин (из Петербурга)",
+   "code": "LEDBJS",
+   "price": 49339,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:LED&cabinClass=Y"
   },
   {
    "city": "Касабланка (из Петербурга)",
    "code": "LEDCMN",
-   "price": 50994,
-   "url": "https://www.aviasales.ru/search/LED0401CMN15011"
+   "price": 51029,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-04_date_2027-01-04_iatax:CMN&route[1]=iatax:CMN_2027-01-15_date_2027-01-15_iatax:LED&cabinClass=Y"
+  },
+  {
+   "city": "Марракеш",
+   "code": "RAK",
+   "price": 51099,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:RAK&route[1]=iatax:RAK_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Шанхай",
+   "code": "SHA",
+   "price": 55754,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:SHA&route[1]=iatax:SHA_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Касабланка",
@@ -611,112 +695,210 @@
    "url": "https://www.aviasales.ru/search/MOW0401CMN15011"
   },
   {
-   "city": "Марракеш",
-   "code": "RAK",
-   "price": 68714,
-   "url": "https://www.aviasales.ru/search/MOW0401RAK15011"
+   "city": "Сеул",
+   "code": "SEL",
+   "price": 73956,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:SEL&route[1]=iatax:SEL_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Гоа",
    "code": "GOI",
-   "price": 81946,
-   "url": "https://www.aviasales.ru/search/MOW0401GOI15011"
-  },
-  {
-   "city": "Шанхай",
-   "code": "SHA",
-   "price": 83368,
-   "url": "https://www.aviasales.ru/search/MOW0401SHA15011"
-  },
-  {
-   "city": "Пхукет",
-   "code": "HKT",
-   "price": 83958,
-   "url": "https://www.aviasales.ru/search/MOW0401HKT15011"
-  },
-  {
-   "city": "Сеул",
-   "code": "SEL",
-   "price": 85046,
-   "url": "https://www.aviasales.ru/search/MOW0401SEL15011"
+   "price": 77576,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:GOI&route[1]=iatax:GOI_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Куала-Лумпур",
    "code": "KUL",
-   "price": 97407,
-   "url": "https://www.aviasales.ru/search/MOW0401KUL15011"
-  },
-  {
-   "city": "Нячанг",
-   "code": "CXR",
-   "price": 101946,
-   "url": "https://www.aviasales.ru/search/MOW0401CXR15011"
-  },
-  {
-   "city": "Бали",
-   "code": "DPS",
-   "price": 102485,
-   "url": "https://www.aviasales.ru/search/MOW0401DPS15011"
-  },
-  {
-   "city": "Ханой",
-   "code": "HAN",
-   "price": 103694,
-   "url": "https://www.aviasales.ru/search/MOW0401HAN15011"
+   "price": 81158,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:KUL&route[1]=iatax:KUL_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Бангкок",
    "code": "BKK",
-   "price": 106930,
-   "url": "https://www.aviasales.ru/search/MOW0401BKK15011"
+   "price": 85181,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BKK&route[1]=iatax:BKK_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
-   "city": "Манила",
-   "code": "MNL",
-   "price": 109939,
-   "url": "https://www.aviasales.ru/search/MOW0401MNL15011"
+   "city": "Ханой",
+   "code": "HAN",
+   "price": 85978,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:HAN&route[1]=iatax:HAN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
-   "city": "Сейшелы",
-   "code": "SEZ",
-   "price": 113657,
-   "url": "https://www.aviasales.ru/search/MOW0401SEZ15011"
-  },
-  {
-   "city": "Занзибар",
-   "code": "ZNZ",
-   "price": 116636,
-   "url": "https://www.aviasales.ru/search/MOW0401ZNZ15011"
+   "city": "Пхукет",
+   "code": "HKT",
+   "price": 87831,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:HKT&route[1]=iatax:HKT_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Коломбо",
    "code": "CMB",
-   "price": 116848,
-   "url": "https://www.aviasales.ru/search/MOW0401CMB15011"
+   "price": 87887,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:CMB&route[1]=iatax:CMB_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Хошимин",
    "code": "SGN",
-   "price": 122201,
-   "url": "https://www.aviasales.ru/search/MOW0401SGN15011"
+   "price": 88403,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:SGN&route[1]=iatax:SGN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
-   "city": "Йоханнесбург",
-   "code": "JNB",
-   "price": 124121,
-   "url": "https://www.aviasales.ru/search/MOW0401JNB15011"
+   "city": "Манила",
+   "code": "MNL",
+   "price": 89605,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:MNL&route[1]=iatax:MNL_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Занзибар",
+   "code": "ZNZ",
+   "price": 99369,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:ZNZ&route[1]=iatax:ZNZ_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
    "city": "Маврикий",
    "code": "MRU",
-   "price": 130422,
-   "url": "https://www.aviasales.ru/search/MOW0401MRU15011"
+   "price": 100613,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:MRU&route[1]=iatax:MRU_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Нячанг",
+   "code": "CXR",
+   "price": 100877,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:CXR&route[1]=iatax:CXR_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Сейшелы",
+   "code": "SEZ",
+   "price": 101562,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:SEZ&route[1]=iatax:SEZ_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Бали",
+   "code": "DPS",
+   "price": 103094,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:DPS&route[1]=iatax:DPS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+  },
+  {
+   "city": "Йоханнесбург",
+   "code": "JNB",
+   "price": 111828,
+   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:JNB&route[1]=iatax:JNB_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   }
  ],
  "best": [
   {
+   "name": "Ханой через Пекин",
+   "path": [
+    "MOW",
+    "BJS",
+    "HAN",
+    "BJS",
+    "MOW"
+   ],
+   "leg_ids": [
+    57,
+    61,
+    62
+   ],
+   "legs": [
+    {
+     "id": 57,
+     "date": "2027-01-04",
+     "from": "MOW",
+     "to": "BJS",
+     "price_rub": "40318",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+     "baggage": "no; +12635 for 10kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    },
+    {
+     "id": 61,
+     "date": "2027-01-06",
+     "from": "PEK",
+     "to": "HAN",
+     "price_rub": "9904",
+     "via": "direct Vietjet PKX 23:15 → HAN 7.01 02:05",
+     "baggage": "no; +1292 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:HAN&cabinClass=Y"
+    },
+    {
+     "id": 62,
+     "date": "2027-01-14",
+     "from": "HAN",
+     "to": "BJS",
+     "price_rub": "10809",
+     "via": "SZX, HAN 14:40 → PKX 22:40",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HAN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
+    }
+   ],
+   "total": 61031,
+   "total_card": 61000,
+   "score": 81.0,
+   "stops": 2,
+   "nobag_legs": 2,
+   "risk": 0,
+   "optimal": true,
+   "reason": "самый дешёвый: прямой Vietjet Пекин → Ханой, обратно с багажом 23 кг"
+  },
+  {
+   "name": "Хошимин через Пекин",
+   "path": [
+    "MOW",
+    "BJS",
+    "SGN",
+    "BJS",
+    "MOW"
+   ],
+   "leg_ids": [
+    57,
+    59,
+    60
+   ],
+   "legs": [
+    {
+     "id": 57,
+     "date": "2027-01-04",
+     "from": "MOW",
+     "to": "BJS",
+     "price_rub": "40318",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+     "baggage": "no; +12635 for 10kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    },
+    {
+     "id": 59,
+     "date": "2027-01-06",
+     "from": "PEK",
+     "to": "SGN",
+     "price_rub": "9597",
+     "via": "direct Vietjet PKX 23:00 → SGN 7.01 03:05",
+     "baggage": "no; +863 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:SGN&cabinClass=Y"
+    },
+    {
+     "id": 60,
+     "date": "2027-01-14",
+     "from": "SGN",
+     "to": "BJS",
+     "price_rub": "11160",
+     "via": "CAN, SGN 11:55 → PKX 21:00",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
+    }
+   ],
+   "total": 61075,
+   "total_card": 61100,
+   "score": 81.1,
+   "stops": 2,
+   "nobag_legs": 2,
+   "risk": 0,
+   "optimal": true,
+   "reason": "почти так же дёшево: прямой Vietjet Пекин → Хошимин, обратно с багажом 23 кг"
+  },
+  {
    "name": "Сеул через Пекин",
-   "total": 63814,
+   "total": 62627,
    "path": [
     "MOW",
     "BJS",
@@ -736,8 +918,8 @@
      "from": "MOW",
      "to": "BJS",
      "price_rub": "40318",
-     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
-     "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+     "baggage": "no; +12635 for 10kg",
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
@@ -745,33 +927,33 @@
      "date": "2027-01-06",
      "from": "PEK",
      "to": "SEL",
-     "price_rub": "11822",
-     "via": "direct Air China PEK→ICN",
+     "price_rub": "11269",
+     "via": "direct Air China PEK 19:00 → ICN 21:55",
      "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/PEK0501ICN1"
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:SEL&cabinClass=Y"
     },
     {
      "id": 47,
      "date": "2027-01-14",
      "from": "SEL",
      "to": "BJS",
-     "price_rub": "11674",
-     "via": "direct ICN→PEK",
+     "price_rub": "11040",
+     "via": "direct Asiana GMP 08:35 → PEK 09:45",
      "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/ICN1401PEK1"
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SEL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total_card": 63800,
-   "score": 90.4,
+   "total_card": 62600,
+   "score": 75.6,
    "optimal": true,
-   "reason": "дёшево, меньше всего пересадок (2), прямые рейсы Пекин ↔ Сеул с багажом туда",
-   "stops": 2,
+   "reason": "дёшево, меньше всего пересадок (2), прямые рейсы Пекин ↔ Сеул с багажом",
+   "stops": 1,
    "nobag_legs": 1,
    "risk": 0
   },
   {
    "name": "Бангкок через Пекин",
-   "total": 65116,
+   "total": 63287,
    "path": [
     "MOW",
     "BJS",
@@ -790,8 +972,8 @@
      "from": "MOW",
      "to": "BJS",
      "price_rub": "40318",
-     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
-     "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+     "baggage": "no; +12635 for 10kg",
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
@@ -799,33 +981,86 @@
      "date": "2027-01-06",
      "from": "PEK",
      "to": "BKK",
-     "price_rub": "12770",
-     "via": "HKG Cathay Pacific, прилёт 5.01",
-     "baggage": "23kg; direct Air China 18407",
-     "url": "https://www.aviasales.ru/search/PEK0501BKK1"
+     "price_rub": "10982",
+     "via": "SZX, PKX 17:00 → BKK 7.01 01:40; прямой Air China от 14713",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:BKK&cabinClass=Y"
     },
     {
      "id": 44,
      "date": "2027-01-14",
      "from": "BKK",
      "to": "BJS",
-     "price_rub": "12028",
-     "via": "CAN, прилёт PKX 21:00",
-     "baggage": "23kg; direct 17005",
-     "url": "https://www.aviasales.ru/search/BKK1401PEK1"
+     "price_rub": "11987",
+     "via": "CAN, BKK 02:10 → PKX 12:00; прямой China Eastern от 15942",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total_card": 65100,
-   "score": 100.5,
-   "optimal": true,
-   "reason": "самый дешёвый, 3 билета, багаж на рейсе Пекин → Бангкок, без смены аэропортов",
-   "stops": 4,
+   "total_card": 63300,
+   "score": 84.3,
+   "optimal": false,
+   "stops": 3,
    "nobag_legs": 1,
    "risk": 0
   },
   {
+   "name": "Куала-Лумпур через Пекин",
+   "path": [
+    "MOW",
+    "BJS",
+    "KUL",
+    "BJS",
+    "MOW"
+   ],
+   "leg_ids": [
+    57,
+    63,
+    64
+   ],
+   "legs": [
+    {
+     "id": 57,
+     "date": "2027-01-04",
+     "from": "MOW",
+     "to": "BJS",
+     "price_rub": "40318",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+     "baggage": "no; +12635 for 10kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    },
+    {
+     "id": 63,
+     "date": "2027-01-06",
+     "from": "PEK",
+     "to": "KUL",
+     "price_rub": "11836",
+     "via": "HKG, PEK 07:30 → KUL 16:50",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:KUL&cabinClass=Y"
+    },
+    {
+     "id": 64,
+     "date": "2027-01-14",
+     "from": "KUL",
+     "to": "BJS",
+     "price_rub": "11995",
+     "via": "SZX, KUL 01:30 → PKX 12:45",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:KUL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
+    }
+   ],
+   "total": 64149,
+   "total_card": 64100,
+   "score": 85.1,
+   "stops": 3,
+   "nobag_legs": 1,
+   "risk": 0,
+   "optimal": false
+  },
+  {
    "name": "Манила через Пекин",
-   "total": 65465,
+   "total": 65081,
    "path": [
     "MOW",
     "BJS",
@@ -845,8 +1080,8 @@
      "from": "MOW",
      "to": "BJS",
      "price_rub": "40318",
-     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",
-     "baggage": "no; +11810 for 10kg; Aviasales 67073 with 23kg",
+     "via": "Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",
+     "baggage": "no; +12635 for 10kg",
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     },
     {
@@ -854,245 +1089,32 @@
      "date": "2027-01-06",
      "from": "PEK",
      "to": "MNL",
-     "price_rub": "11972",
-     "via": "HKG, прилёт 6.01",
+     "price_rub": "11659",
+     "via": "HKG, PEK 03:25 → MNL 11:20",
      "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/PEK0501MNL1"
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:MNL&cabinClass=Y"
     },
     {
      "id": 43,
      "date": "2027-01-14",
      "from": "MNL",
      "to": "BJS",
-     "price_rub": "13175",
-     "via": "CAN, прилёт PKX 15.01 00:05",
-     "baggage": "20kg",
-     "url": "https://www.aviasales.ru/search/MNL1401PEK1"
-    }
-   ],
-   "total_card": 65500,
-   "score": 102.3,
-   "optimal": true,
-   "reason": "дёшево и другое направление, багаж на рейсе Пекин → Манила, без смены аэропортов",
-   "stops": 4,
-   "nobag_legs": 2,
-   "risk": 0
-  },
-  {
-   "name": "Бангкок через Стамбул (вылет 3 янв)",
-   "total": 99147,
-   "path": [
-    "MOW",
-    "IST",
-    "BKK",
-    "MOW"
-   ],
-   "leg_ids": [
-    10,
-    15,
-    46
-   ],
-   "legs": [
-    {
-     "id": 10,
-     "date": "2027-01-03",
-     "from": "MOW",
-     "to": "IST",
-     "price_rub": "28185",
-     "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
-     "baggage": "no; 31970 with 23kg; direct 29271",
-     "url": "https://www.aviasales.ru/search/MOW0301IST1"
-    },
-    {
-     "id": 15,
-     "date": "2027-01-04",
-     "from": "IST",
-     "to": "BKK",
-     "price_rub": "23017",
-     "via": "SAW→MCT+SHJ",
-     "baggage": "no; 26548 with 12kg",
-     "url": "https://www.aviasales.ru/search/IST0401BKK1"
-    },
-    {
-     "id": 46,
-     "date": "2027-01-14",
-     "from": "BKK",
-     "to": "MOW",
-     "price_rub": "47945",
-     "via": "AMM",
-     "baggage": "20kg",
-     "url": "https://www.aviasales.ru/search/BKK1401MOW1"
-    }
-   ],
-   "total_card": 99100,
-   "score": 124.0,
-   "optimal": false,
-   "stops": 3,
-   "nobag_legs": 2,
-   "risk": 0
-  },
-  {
-   "name": "Хошимин через Стамбул",
-   "total": 99952,
-   "path": [
-    "MOW",
-    "IST",
-    "SGN",
-    "MOW"
-   ],
-   "leg_ids": [
-    26,
-    37,
-    53
-   ],
-   "legs": [
-    {
-     "id": 26,
-     "date": "2027-01-04",
-     "from": "MOW",
-     "to": "IST",
-     "price_rub": "18195",
-     "via": "direct S7 DME 11:00 → IST 16:20",
-     "baggage": "no; 25430 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401IST1"
-    },
-    {
-     "id": 37,
-     "date": "2027-01-06",
-     "from": "IST",
-     "to": "SGN",
-     "price_rub": "35528",
-     "via": "ASB",
+     "price_rub": "13104",
+     "via": "CAN, MNL 08:20 → PKX 15.01 00:55",
      "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/IST0601SGN1"
-    },
-    {
-     "id": 53,
-     "date": "2027-01-15",
-     "from": "SGN",
-     "to": "MOW",
-     "price_rub": "46229",
-     "via": "CKG+URC",
-     "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/SGN1501MOW1"
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MNL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total_card": 100000,
-   "score": 121.2,
+   "total_card": 65100,
+   "score": 86.1,
    "optimal": false,
    "stops": 3,
    "nobag_legs": 1,
    "risk": 0
   },
   {
-   "name": "Бангкок через Стамбул",
-   "total": 101317,
-   "path": [
-    "MOW",
-    "IST",
-    "BKK",
-    "MOW"
-   ],
-   "leg_ids": [
-    26,
-    34,
-    49
-   ],
-   "legs": [
-    {
-     "id": 26,
-     "date": "2027-01-04",
-     "from": "MOW",
-     "to": "IST",
-     "price_rub": "18195",
-     "via": "direct S7 DME 11:00 → IST 16:20",
-     "baggage": "no; 25430 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401IST1"
-    },
-    {
-     "id": 34,
-     "date": "2027-01-06",
-     "from": "IST",
-     "to": "BKK",
-     "price_rub": "28870",
-     "via": "SHJ, прилёт 7.01",
-     "baggage": "no; 31447 with 20kg",
-     "url": "https://www.aviasales.ru/search/IST0601BKK1"
-    },
-    {
-     "id": 49,
-     "date": "2027-01-15",
-     "from": "BKK",
-     "to": "MOW",
-     "price_rub": "54252",
-     "via": "SHJ, прилёт DME 16.01",
-     "baggage": "no",
-     "url": "https://www.aviasales.ru/search/BKK1501MOW1"
-    }
-   ],
-   "total_card": 101300,
-   "score": 114.3,
-   "optimal": false,
-   "stops": 3,
-   "nobag_legs": 3,
-   "risk": 0
-  },
-  {
-   "name": "Пхукет через Стамбул",
-   "total": 101404,
-   "path": [
-    "MOW",
-    "IST",
-    "HKT",
-    "MOW"
-   ],
-   "leg_ids": [
-    26,
-    36,
-    51
-   ],
-   "legs": [
-    {
-     "id": 26,
-     "date": "2027-01-04",
-     "from": "MOW",
-     "to": "IST",
-     "price_rub": "18195",
-     "via": "direct S7 DME 11:00 → IST 16:20",
-     "baggage": "no; 25430 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401IST1"
-    },
-    {
-     "id": 36,
-     "date": "2027-01-06",
-     "from": "IST",
-     "to": "HKT",
-     "price_rub": "39042",
-     "via": "BKK",
-     "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/IST0601HKT1"
-    },
-    {
-     "id": 51,
-     "date": "2027-01-15",
-     "from": "HKT",
-     "to": "MOW",
-     "price_rub": "44167",
-     "via": "BOM+GYD",
-     "baggage": "no",
-     "url": "https://www.aviasales.ru/search/HKT1501MOW1"
-    }
-   ],
-   "total_card": 101400,
-   "score": 125.7,
-   "optimal": false,
-   "stops": 3,
-   "nobag_legs": 2,
-   "risk": 0
-  },
-  {
    "name": "Коломбо (Шри-Ланка) через Стамбул",
-   "total": 103940,
+   "total": 84080,
    "path": [
     "MOW",
     "IST",
@@ -1110,95 +1132,95 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "18195",
+     "price_rub": "18270",
      "via": "direct S7 DME 11:00 → IST 16:20",
-     "baggage": "no; 25430 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401IST1"
+     "baggage": "no; 25525 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y"
     },
     {
      "id": 35,
      "date": "2027-01-06",
      "from": "IST",
      "to": "CMB",
-     "price_rub": "35792",
-     "via": "AUH",
-     "baggage": "25kg",
-     "url": "https://www.aviasales.ru/search/IST0601CMB1"
+     "price_rub": "22001",
+     "via": "KWI, IST 14:30 → CMB 7.01 07:20",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:CMB&cabinClass=Y"
     },
     {
      "id": 50,
      "date": "2027-01-15",
      "from": "CMB",
      "to": "MOW",
-     "price_rub": "49953",
-     "via": "DXB",
-     "baggage": "30kg",
-     "url": "https://www.aviasales.ru/search/CMB1501MOW1"
+     "price_rub": "43809",
+     "via": "SHJ+IST, CMB 14:35 → SVO 16.01 23:50",
+     "baggage": "no; +5180 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:CMB_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     }
    ],
-   "total_card": 103900,
-   "score": 121.2,
+   "total_card": 84100,
+   "score": 111.1,
    "optimal": false,
-   "stops": 2,
-   "nobag_legs": 1,
+   "stops": 3,
+   "nobag_legs": 3,
    "risk": 0
   },
   {
-   "name": "Хошимин через Стамбул (вылет 3 янв)",
-   "total": 106035,
+   "name": "Бангкок через Стамбул",
+   "total": 86359,
    "path": [
     "MOW",
     "IST",
-    "SGN",
+    "BKK",
     "MOW"
    ],
    "leg_ids": [
-    10,
-    20,
-    53
+    26,
+    34,
+    46
    ],
    "legs": [
     {
-     "id": 10,
-     "date": "2027-01-03",
+     "id": 26,
+     "date": "2027-01-04",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "28185",
-     "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
-     "baggage": "no; 31970 with 23kg; direct 29271",
-     "url": "https://www.aviasales.ru/search/MOW0301IST1"
+     "price_rub": "18270",
+     "via": "direct S7 DME 11:00 → IST 16:20",
+     "baggage": "no; 25525 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y"
     },
     {
-     "id": 20,
-     "date": "2027-01-04",
+     "id": 34,
+     "date": "2027-01-06",
      "from": "IST",
-     "to": "SGN",
-     "price_rub": "31621",
-     "via": "CAN",
-     "baggage": "bag",
-     "url": "https://www.aviasales.ru/search/IST0401SGN1"
+     "to": "BKK",
+     "price_rub": "27955",
+     "via": "SHJ, IST 18:40 → BKK 7.01 17:05",
+     "baggage": "no; +1783 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:BKK&cabinClass=Y"
     },
     {
-     "id": 53,
-     "date": "2027-01-15",
-     "from": "SGN",
+     "id": 46,
+     "date": "2027-01-14",
+     "from": "BKK",
      "to": "MOW",
-     "price_rub": "46229",
-     "via": "CKG+URC",
-     "baggage": "23kg",
-     "url": "https://www.aviasales.ru/search/SGN1501MOW1"
+     "price_rub": "40134",
+     "via": "BOM+BAK, BKK 20:40 → DME 16.01 12:05",
+     "baggage": "no; +13001 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:MOW&cabinClass=Y"
     }
    ],
-   "total_card": 106000,
-   "score": 131.9,
+   "total_card": 86400,
+   "score": 113.4,
    "optimal": false,
-   "stops": 4,
-   "nobag_legs": 1,
+   "stops": 3,
+   "nobag_legs": 3,
    "risk": 0
   },
   {
-   "name": "Пхукет через Стамбул (вылет 3 янв)",
-   "total": 112480,
+   "name": "Пхукет через Стамбул",
+   "total": 90592,
    "path": [
     "MOW",
     "IST",
@@ -1206,105 +1228,52 @@
     "MOW"
    ],
    "leg_ids": [
-    11,
-    18,
+    26,
+    36,
     51
    ],
    "legs": [
     {
-     "id": 11,
-     "date": "2027-01-03",
+     "id": 26,
+     "date": "2027-01-04",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "29271",
-     "via": "direct cheapest alt",
-     "baggage": "see id 10 for via AYT",
-     "url": "https://www.aviasales.ru/search/MOW0301IST1"
+     "price_rub": "18270",
+     "via": "direct S7 DME 11:00 → IST 16:20",
+     "baggage": "no; 25525 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y"
     },
     {
-     "id": 18,
-     "date": "2027-01-04",
+     "id": 36,
+     "date": "2027-01-06",
      "from": "IST",
      "to": "HKT",
-     "price_rub": "39042",
-     "via": "BKK",
-     "baggage": "bag",
-     "url": "https://www.aviasales.ru/search/IST0401HKT1"
+     "price_rub": "30035",
+     "via": "MCT+AUH, SAW 21:30 → HKT 7.01 23:50",
+     "baggage": "no; +4959 for 12kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:HKT&cabinClass=Y"
     },
     {
      "id": 51,
      "date": "2027-01-15",
      "from": "HKT",
      "to": "MOW",
-     "price_rub": "44167",
-     "via": "BOM+GYD",
-     "baggage": "no",
-     "url": "https://www.aviasales.ru/search/HKT1501MOW1"
+     "price_rub": "42287",
+     "via": "BOM+BAK, HKT 20:55 → DME 16.01 12:05",
+     "baggage": "no; +4615 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HKT_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     }
    ],
-   "total_card": 112500,
-   "score": 136.9,
+   "total_card": 90600,
+   "score": 121.6,
    "optimal": false,
-   "stops": 3,
-   "nobag_legs": 2,
-   "risk": 0
-  },
-  {
-   "name": "Коломбо (Шри-Ланка) через Стамбул (вылет 3 янв)",
-   "total": 113955,
-   "path": [
-    "MOW",
-    "IST",
-    "CMB",
-    "MOW"
-   ],
-   "leg_ids": [
-    10,
-    17,
-    50
-   ],
-   "legs": [
-    {
-     "id": 10,
-     "date": "2027-01-03",
-     "from": "MOW",
-     "to": "IST",
-     "price_rub": "28185",
-     "via": "SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",
-     "baggage": "no; 31970 with 23kg; direct 29271",
-     "url": "https://www.aviasales.ru/search/MOW0301IST1"
-    },
-    {
-     "id": 17,
-     "date": "2027-01-04",
-     "from": "IST",
-     "to": "CMB",
-     "price_rub": "35817",
-     "via": "AUH",
-     "baggage": "bag",
-     "url": "https://www.aviasales.ru/search/IST0401CMB1"
-    },
-    {
-     "id": 50,
-     "date": "2027-01-15",
-     "from": "CMB",
-     "to": "MOW",
-     "price_rub": "49953",
-     "via": "DXB",
-     "baggage": "30kg",
-     "url": "https://www.aviasales.ru/search/CMB1501MOW1"
-    }
-   ],
-   "total_card": 114000,
-   "score": 135.8,
-   "optimal": false,
-   "stops": 3,
-   "nobag_legs": 1,
+   "stops": 4,
+   "nobag_legs": 3,
    "risk": 0
   },
   {
    "name": "Занзибар через Стамбул",
-   "total": 121901,
+   "total": 93590,
    "path": [
     "MOW",
     "IST",
@@ -1322,42 +1291,254 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "18195",
+     "price_rub": "18270",
      "via": "direct S7 DME 11:00 → IST 16:20",
-     "baggage": "no; 25430 with 23kg",
-     "url": "https://www.aviasales.ru/search/MOW0401IST1"
+     "baggage": "no; 25525 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y"
     },
     {
      "id": 38,
      "date": "2027-01-06",
      "from": "IST",
      "to": "ZNZ",
-     "price_rub": "42235",
-     "via": "DOH",
-     "baggage": "2 bags",
-     "url": "https://www.aviasales.ru/search/IST0601ZNZ1"
+     "price_rub": "28987",
+     "via": "SSH, SAW 23:55 → ZNZ 8.01 08:10",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:ZNZ&cabinClass=Y"
     },
     {
      "id": 54,
      "date": "2027-01-15",
      "from": "ZNZ",
      "to": "MOW",
-     "price_rub": "61471",
-     "via": "NBO+DXB/DWC",
-     "baggage": "",
-     "url": "https://www.aviasales.ru/search/ZNZ1501MOW1"
+     "price_rub": "46333",
+     "via": "HRG+IZM, ZNZ 09:10 → VKO 17.01 03:25",
+     "baggage": "no; +3269 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:ZNZ_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     }
    ],
-   "total_card": 121900,
-   "score": 154.2,
+   "total_card": 93600,
+   "score": 120.6,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 3,
+   "risk": 0
+  },
+  {
+   "name": "Коломбо (Шри-Ланка) через Стамбул (вылет 3 янв)",
+   "total": 94023,
+   "path": [
+    "MOW",
+    "IST",
+    "CMB",
+    "MOW"
+   ],
+   "leg_ids": [
+    11,
+    17,
+    50
+   ],
+   "legs": [
+    {
+     "id": 11,
+     "date": "2027-01-03",
+     "from": "MOW",
+     "to": "IST",
+     "price_rub": "28722",
+     "via": "direct Southwind SVO 00:50 → IST 04:35",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y"
+    },
+    {
+     "id": 17,
+     "date": "2027-01-04",
+     "from": "IST",
+     "to": "CMB",
+     "price_rub": "21492",
+     "via": "KWI, SAW 14:50 → CMB 6.01 01:45",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:CMB&cabinClass=Y"
+    },
+    {
+     "id": 50,
+     "date": "2027-01-15",
+     "from": "CMB",
+     "to": "MOW",
+     "price_rub": "43809",
+     "via": "SHJ+IST, CMB 14:35 → SVO 16.01 23:50",
+     "baggage": "no; +5180 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:CMB_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    }
+   ],
+   "total_card": 94000,
+   "score": 121.0,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 3,
+   "risk": 0
+  },
+  {
+   "name": "Хошимин через Стамбул",
+   "total": 96920,
+   "path": [
+    "MOW",
+    "IST",
+    "SGN",
+    "MOW"
+   ],
+   "leg_ids": [
+    26,
+    37,
+    53
+   ],
+   "legs": [
+    {
+     "id": 26,
+     "date": "2027-01-04",
+     "from": "MOW",
+     "to": "IST",
+     "price_rub": "18270",
+     "via": "direct S7 DME 11:00 → IST 16:20",
+     "baggage": "no; 25525 with 23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y"
+    },
+    {
+     "id": 37,
+     "date": "2027-01-06",
+     "from": "IST",
+     "to": "SGN",
+     "price_rub": "33067",
+     "via": "KUL, SAW 17:20 → SGN 7.01 20:00",
+     "baggage": "no; +5847 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:SGN&cabinClass=Y"
+    },
+    {
+     "id": 53,
+     "date": "2027-01-15",
+     "from": "SGN",
+     "to": "MOW",
+     "price_rub": "45583",
+     "via": "CAN+TAS, SGN 21:45 → VKO 16.01 16:15",
+     "baggage": "no; +10523 bag",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    }
+   ],
+   "total_card": 96900,
+   "score": 123.9,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 3,
+   "risk": 0
+  },
+  {
+   "name": "Пхукет через Стамбул (вылет 3 янв)",
+   "total": 97486,
+   "path": [
+    "MOW",
+    "IST",
+    "HKT",
+    "MOW"
+   ],
+   "leg_ids": [
+    11,
+    18,
+    51
+   ],
+   "legs": [
+    {
+     "id": 11,
+     "date": "2027-01-03",
+     "from": "MOW",
+     "to": "IST",
+     "price_rub": "28722",
+     "via": "direct Southwind SVO 00:50 → IST 04:35",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y"
+    },
+    {
+     "id": 18,
+     "date": "2027-01-04",
+     "from": "IST",
+     "to": "HKT",
+     "price_rub": "26477",
+     "via": "KWI, SAW 14:50 → HKT 5.01 14:55",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:HKT&cabinClass=Y"
+    },
+    {
+     "id": 51,
+     "date": "2027-01-15",
+     "from": "HKT",
+     "to": "MOW",
+     "price_rub": "42287",
+     "via": "BOM+BAK, HKT 20:55 → DME 16.01 12:05",
+     "baggage": "no; +4615 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HKT_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    }
+   ],
+   "total_card": 97500,
+   "score": 124.5,
+   "optimal": false,
+   "stops": 3,
+   "nobag_legs": 3,
+   "risk": 0
+  },
+  {
+   "name": "Бангкок через Стамбул (вылет 3 янв)",
+   "total": 98746,
+   "path": [
+    "MOW",
+    "IST",
+    "BKK",
+    "MOW"
+   ],
+   "leg_ids": [
+    11,
+    15,
+    46
+   ],
+   "legs": [
+    {
+     "id": 11,
+     "date": "2027-01-03",
+     "from": "MOW",
+     "to": "IST",
+     "price_rub": "28722",
+     "via": "direct Southwind SVO 00:50 → IST 04:35",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y"
+    },
+    {
+     "id": 15,
+     "date": "2027-01-04",
+     "from": "IST",
+     "to": "BKK",
+     "price_rub": "29890",
+     "via": "CAN, IST 14:25 → BKK 5.01 11:25 (Aviasales 19.10: 23017 via MCT+SHJ)",
+     "baggage": "23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:BKK&cabinClass=Y"
+    },
+    {
+     "id": 46,
+     "date": "2027-01-14",
+     "from": "BKK",
+     "to": "MOW",
+     "price_rub": "40134",
+     "via": "BOM+BAK, BKK 20:40 → DME 16.01 12:05",
+     "baggage": "no; +13001 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:MOW&cabinClass=Y"
+    }
+   ],
+   "total_card": 98700,
+   "score": 122.7,
    "optimal": false,
    "stops": 3,
    "nobag_legs": 2,
-   "risk": 1
+   "risk": 0
   },
   {
    "name": "Занзибар через Стамбул (вылет 3 янв)",
-   "total": 135929,
+   "total": 109051,
    "path": [
     "MOW",
     "IST",
@@ -1375,49 +1556,101 @@
      "date": "2027-01-03",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "29271",
-     "via": "direct cheapest alt",
-     "baggage": "see id 10 for via AYT",
-     "url": "https://www.aviasales.ru/search/MOW0301IST1"
+     "price_rub": "28722",
+     "via": "direct Southwind SVO 00:50 → IST 04:35",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y"
     },
     {
      "id": 21,
      "date": "2027-01-04",
      "from": "IST",
      "to": "ZNZ",
-     "price_rub": "45187",
-     "via": "DOH",
-     "baggage": "bag",
-     "url": "https://www.aviasales.ru/search/IST0401ZNZ1"
+     "price_rub": "33996",
+     "via": "SSH, SAW 01:20 → ZNZ 5.01 08:40",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:ZNZ&cabinClass=Y"
     },
     {
      "id": 54,
      "date": "2027-01-15",
      "from": "ZNZ",
      "to": "MOW",
-     "price_rub": "61471",
-     "via": "NBO+DXB/DWC",
-     "baggage": "",
-     "url": "https://www.aviasales.ru/search/ZNZ1501MOW1"
+     "price_rub": "46333",
+     "via": "HRG+IZM, ZNZ 09:10 → VKO 17.01 03:25",
+     "baggage": "no; +3269 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:ZNZ_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     }
    ],
-   "total_card": 135900,
-   "score": 168.4,
+   "total_card": 109100,
+   "score": 136.1,
    "optimal": false,
    "stops": 3,
-   "nobag_legs": 2,
-   "risk": 1
+   "nobag_legs": 3,
+   "risk": 0
+  },
+  {
+   "name": "Хошимин через Стамбул (вылет 3 янв)",
+   "total": 111733,
+   "path": [
+    "MOW",
+    "IST",
+    "SGN",
+    "MOW"
+   ],
+   "leg_ids": [
+    11,
+    20,
+    53
+   ],
+   "legs": [
+    {
+     "id": 11,
+     "date": "2027-01-03",
+     "from": "MOW",
+     "to": "IST",
+     "price_rub": "28722",
+     "via": "direct Southwind SVO 00:50 → IST 04:35",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y"
+    },
+    {
+     "id": 20,
+     "date": "2027-01-04",
+     "from": "IST",
+     "to": "SGN",
+     "price_rub": "37428",
+     "via": "CAN+KUL, IST 14:25 → SGN 5.01 20:00",
+     "baggage": "no; +2507 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:SGN&cabinClass=Y"
+    },
+    {
+     "id": 53,
+     "date": "2027-01-15",
+     "from": "SGN",
+     "to": "MOW",
+     "price_rub": "45583",
+     "via": "CAN+TAS, SGN 21:45 → VKO 16.01 16:15",
+     "baggage": "no; +10523 bag",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+    }
+   ],
+   "total_card": 111700,
+   "score": 142.7,
+   "optimal": false,
+   "stops": 4,
+   "nobag_legs": 3,
+   "risk": 0
   },
   {
    "name": "Маврикий через Стамбул (вылет 3 янв)",
-   "total": 159306,
+   "total": 133036,
    "path": [
     "MOW",
     "IST",
     "MRU",
     "MOW"
    ],
-   "note": "выше бюджета",
    "leg_ids": [
     11,
     19,
@@ -1429,39 +1662,39 @@
      "date": "2027-01-03",
      "from": "MOW",
      "to": "IST",
-     "price_rub": "29271",
-     "via": "direct cheapest alt",
-     "baggage": "see id 10 for via AYT",
-     "url": "https://www.aviasales.ru/search/MOW0301IST1"
+     "price_rub": "28722",
+     "via": "direct Southwind SVO 00:50 → IST 04:35",
+     "baggage": "no",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y"
     },
     {
      "id": 19,
      "date": "2027-01-04",
      "from": "IST",
      "to": "MRU",
-     "price_rub": "55851",
-     "via": "DXB",
-     "baggage": "bag",
-     "url": "https://www.aviasales.ru/search/IST0401MRU1"
+     "price_rub": "52705",
+     "via": "DXB, SAW 14:20 → MRU 5.01 17:10",
+     "baggage": "2×23kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:MRU&cabinClass=Y"
     },
     {
      "id": 52,
      "date": "2027-01-15",
      "from": "MRU",
      "to": "MOW",
-     "price_rub": "74184",
-     "via": "DXB",
-     "baggage": "bag",
-     "url": "https://www.aviasales.ru/search/MRU1501MOW1"
+     "price_rub": "51609",
+     "via": "BLR+BOM+BAK, MRU 09:30 → DME 16.01 12:05",
+     "baggage": "no; +5383 for 20kg",
+     "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MRU_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
     }
    ],
-   "total_card": 159300,
-   "score": 176.8,
+   "total_card": 133000,
+   "score": 161.0,
    "optimal": false,
-   "stops": 2,
-   "nobag_legs": 1,
+   "stops": 4,
+   "nobag_legs": 2,
    "risk": 0
   }
  ],
- "updated": "19.10.2026"
+ "updated": "20.10.2026"
 }

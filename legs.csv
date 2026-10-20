@@ -2,32 +2,32 @@ date,from,to,price_rub,via,baggage,url
 2027-01-02,LED,SAW,18650,via Moscow SVO→VKO airport change,,https://www.aviasales.ru/search/LED0201IST1
 2027-01-02,LED,SAW,33156,direct Pegasus,,https://www.aviasales.ru/search/LED0201SAW1
 2027-01-02,MOW,CMN,38931,,,https://www.aviasales.ru/search/MOW0201CMN1
-2027-01-02,MOW,IST,29271,direct Southwind SVO 00:50 → IST 04:35,no; 32091 with 20kg,https://www.aviasales.ru/search/MOW0201IST1
+2027-01-02,MOW,IST,28722,direct Southwind SVO 00:50 → IST 04:35; дешевле 26930 через GZP → SAW (прилёт 3.01 00:20),no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-02_date_2027-01-02_iatax:IST&cabinClass=Y
 2027-01-02,MOW,SAW,33221,direct Pegasus,,https://www.aviasales.ru/search/MOW0201SAW1
-2027-01-03,LED,IST,23546,S7 via DME,no,https://www.aviasales.ru/search/LED0301IST1
+2027-01-03,LED,IST,23371,"via MOW, LED 18:45 → IST 4.01 16:20",no; 31551 with 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y
 2027-01-03,LED,IST,27626,direct Southwind,no; 30760 with 20kg,https://www.aviasales.ru/search/LED0301IST1
 2027-01-03,MOW,ALA,18709,,,https://www.aviasales.ru/search/MOW0301ALA1
 2027-01-03,MOW,DEL,37664,,,https://www.aviasales.ru/search/MOW0301DEL1
 2027-01-03,MOW,GYD,28209,,,https://www.aviasales.ru/search/MOW0301GYD1
-2027-01-03,MOW,IST,28185,"SCAT via CIT, VKO 19:00 → прилёт 4.01 09:40",no; 31970 with 23kg; direct 29271,https://www.aviasales.ru/search/MOW0301IST1
-2027-01-03,MOW,IST,29271,direct cheapest alt,see id 10 for via AYT,https://www.aviasales.ru/search/MOW0301IST1
-2027-01-03,MOW,IST,31052,direct Pobeda,,https://www.aviasales.ru/search/MOW0301IST1
+2027-01-03,MOW,IST,26621,"GZP, VKO 07:00 → SAW 4.01 13:10 (Aviasales 19.10: SCAT via CIT 28185)",no; +3494 for 10kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y
+2027-01-03,MOW,IST,28722,direct Southwind SVO 00:50 → IST 04:35,no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y
+2027-01-03,MOW,IST,30239,direct Pobeda,,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-03_date_2027-01-03_iatax:IST&cabinClass=Y
 2027-01-03,MOW,IST,39079,direct Turkish,bag incl,https://www.aviasales.ru/search/MOW0301IST1
 2027-01-03,MOW,TAS,19749,direct,,https://www.aviasales.ru/search/MOW0301TAS1
-2027-01-04,IST,BKK,23017,SAW→MCT+SHJ,no; 26548 with 12kg,https://www.aviasales.ru/search/IST0401BKK1
+2027-01-04,IST,BKK,29890,"CAN, IST 14:25 → BKK 5.01 11:25 (Aviasales 19.10: 23017 via MCT+SHJ)",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:BKK&cabinClass=Y
 2027-01-04,IST,BKK,31789,CAN,bag incl,https://www.aviasales.ru/search/IST0401BKK1
-2027-01-04,IST,CMB,35817,AUH,bag,https://www.aviasales.ru/search/IST0401CMB1
-2027-01-04,IST,HKT,39042,BKK,bag,https://www.aviasales.ru/search/IST0401HKT1
-2027-01-04,IST,MRU,55851,DXB,bag,https://www.aviasales.ru/search/IST0401MRU1
-2027-01-04,IST,SGN,31621,CAN,bag,https://www.aviasales.ru/search/IST0401SGN1
-2027-01-04,IST,ZNZ,45187,DOH,bag,https://www.aviasales.ru/search/IST0401ZNZ1
-2027-01-04,LED,BJS,29646,IKT,no; 39391 with 23kg,https://www.aviasales.ru/search/LED0401BJS1
-2027-01-04,LED,BJS,57363,"IKT+OVB (билет туда-обратно, обратно 15.01)",10kg hand; 78513 with 23kg,https://www.aviasales.ru/search/LED0401BJS15011
+2027-01-04,IST,CMB,21492,"KWI, SAW 14:50 → CMB 6.01 01:45",no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:CMB&cabinClass=Y
+2027-01-04,IST,HKT,26477,"KWI, SAW 14:50 → HKT 5.01 14:55",no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:HKT&cabinClass=Y
+2027-01-04,IST,MRU,52705,"DXB, SAW 14:20 → MRU 5.01 17:10",2×23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:MRU&cabinClass=Y
+2027-01-04,IST,SGN,37428,"CAN+KUL, IST 14:25 → SGN 5.01 20:00",no; +2507 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:SGN&cabinClass=Y
+2027-01-04,IST,ZNZ,33996,"SSH, SAW 01:20 → ZNZ 5.01 08:40",no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-04_date_2027-01-04_iatax:ZNZ&cabinClass=Y
+2027-01-04,LED,BJS,27257,"OVB, LED 16:30 → PKX 6.01 05:00",no; +10559 for 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-04_date_2027-01-04_iatax:BJS&cabinClass=Y
+2027-01-04,LED,BJS,49339,"OVB (туда-обратно, обратно 15.01), LED 16:30 → PKX 6.01 05:00, обратно PKX 06:05 → LED 12:20",no; +19645 for 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:LED_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:LED&cabinClass=Y
 2027-01-04,LED,TAS,21843,,,https://www.aviasales.ru/search/LED0401TAS1
-2027-01-04,MOW,BJS,25904,IKT (S7),no; 35074 with 23kg,https://www.aviasales.ru/search/MOW0401BJS1
-2027-01-04,MOW,BJS,40318,"Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01; Aviasales 47333 via IKT (U6)",no; +11810 for 10kg; Aviasales 67073 with 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-04,MOW,BJS,25049,"SVX, DME 08:25 → PKX 5.01 03:55",no; +5590 for 10kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&cabinClass=Y
+2027-01-04,MOW,BJS,40318,"Купибилет: 1 stop SVX (U6), туда-обратно, обратно 15.01, DME 23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 19:40",no; +12635 for 10kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:BJS&route[1]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
 2027-01-04,MOW,DOH,32674,,,https://www.aviasales.ru/search/MOW0401DOH1
-2027-01-04,MOW,IST,18195,direct S7 DME 11:00 → IST 16:20,no; 25430 with 23kg,https://www.aviasales.ru/search/MOW0401IST1
+2027-01-04,MOW,IST,18270,direct S7 DME 11:00 → IST 16:20,no; 25525 with 23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:IST&cabinClass=Y
 2027-01-04,MOW,PEK,38827,direct Hainan,23kg,https://www.aviasales.ru/search/MOW0401PEK1
 2027-01-05,ALA,BKK,27186,,,https://www.aviasales.ru/search/ALA0501BKK1
 2027-01-05,IST,BKK,26663,Oman Air via MCT,bag incl,https://www.aviasales.ru/search/IST0501BKK1
@@ -35,26 +35,32 @@ date,from,to,price_rub,via,baggage,url
 2027-01-05,IST,SGN,35529,ASB,,https://www.aviasales.ru/search/IST0501SGN1
 2027-01-05,IST,ZNZ,32601,MCT+ADD 37h,,https://www.aviasales.ru/search/IST0501ZNZ1
 2027-01-05,TAS,BKK,26827,DOH,,https://www.aviasales.ru/search/TAS0501BKK1
-2027-01-06,IST,BKK,28870,"SHJ, прилёт 7.01",no; 31447 with 20kg,https://www.aviasales.ru/search/IST0601BKK1
-2027-01-06,IST,CMB,35792,AUH,25kg,https://www.aviasales.ru/search/IST0601CMB1
-2027-01-06,IST,HKT,39042,BKK,23kg,https://www.aviasales.ru/search/IST0601HKT1
-2027-01-06,IST,SGN,35528,ASB,23kg,https://www.aviasales.ru/search/IST0601SGN1
-2027-01-06,IST,ZNZ,42235,DOH,2 bags,https://www.aviasales.ru/search/IST0601ZNZ1
-2027-01-06,PEK,BKK,12770,"HKG Cathay Pacific, прилёт 5.01",23kg; direct Air China 18407,https://www.aviasales.ru/search/PEK0501BKK1
-2027-01-06,PEK,DPS,23055,SGN,23kg,https://www.aviasales.ru/search/PEK0601DPS1
-2027-01-06,PEK,MNL,11972,"HKG, прилёт 6.01",23kg,https://www.aviasales.ru/search/PEK0501MNL1
+2027-01-06,IST,BKK,27955,"SHJ, IST 18:40 → BKK 7.01 17:05",no; +1783 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:BKK&cabinClass=Y
+2027-01-06,IST,CMB,22001,"KWI, IST 14:30 → CMB 7.01 07:20",no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:CMB&cabinClass=Y
+2027-01-06,IST,HKT,30035,"MCT+AUH, SAW 21:30 → HKT 7.01 23:50",no; +4959 for 12kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:HKT&cabinClass=Y
+2027-01-06,IST,SGN,33067,"KUL, SAW 17:20 → SGN 7.01 20:00",no; +5847 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:SGN&cabinClass=Y
+2027-01-06,IST,ZNZ,28987,"SSH, SAW 23:55 → ZNZ 8.01 08:10",no,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-06_date_2027-01-06_iatax:ZNZ&cabinClass=Y
+2027-01-06,PEK,BKK,10982,"SZX, PKX 17:00 → BKK 7.01 01:40; прямой Air China от 14713",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:BKK&cabinClass=Y
+2027-01-06,PEK,DPS,14885,"HKG, PEK 03:25 → DPS 15:20",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:DPS&cabinClass=Y
+2027-01-06,PEK,HAN,9904,direct Vietjet PKX 23:15 → HAN 7.01 02:05,no; +1292 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:HAN&cabinClass=Y
+2027-01-06,PEK,KUL,11836,"HKG, PEK 07:30 → KUL 16:50",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:KUL&cabinClass=Y
+2027-01-06,PEK,MNL,11659,"HKG, PEK 03:25 → MNL 11:20",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:MNL&cabinClass=Y
 2027-01-06,PEK,SEL,9042,"CJU (Spring+Eastar, 14h)",no,https://www.aviasales.ru/search/PEK0601SEL1
-2027-01-06,PEK,SEL,11822,direct Air China PEK→ICN,23kg,https://www.aviasales.ru/search/PEK0501ICN1
-2027-01-14,BKK,BJS,12028,"CAN, прилёт PKX 21:00",23kg; direct 17005,https://www.aviasales.ru/search/BKK1401PEK1
-2027-01-14,BKK,IST,27562,SHJ,,https://www.aviasales.ru/search/BKK1401IST1
-2027-01-14,BKK,MOW,47945,AMM,20kg,https://www.aviasales.ru/search/BKK1401MOW1
-2027-01-14,MNL,BJS,13175,"CAN, прилёт PKX 15.01 00:05",20kg,https://www.aviasales.ru/search/MNL1401PEK1
-2027-01-14,SEL,BJS,11674,direct ICN→PEK,23kg,https://www.aviasales.ru/search/ICN1401PEK1
-2027-01-15,BJS,MOW,30071,SVX,10kg hand; 37056 with bag,https://www.aviasales.ru/search/BJS1501MOW1
-2027-01-15,BKK,MOW,54252,"SHJ, прилёт DME 16.01",no,https://www.aviasales.ru/search/BKK1501MOW1
-2027-01-15,CMB,MOW,49953,DXB,30kg,https://www.aviasales.ru/search/CMB1501MOW1
-2027-01-15,HKT,MOW,44167,BOM+GYD,no,https://www.aviasales.ru/search/HKT1501MOW1
-2027-01-15,MRU,MOW,74184,DXB,bag,https://www.aviasales.ru/search/MRU1501MOW1
-2027-01-15,SGN,MOW,46229,CKG+URC,23kg,https://www.aviasales.ru/search/SGN1501MOW1
-2027-01-15,ZNZ,MOW,61471,NBO+DXB/DWC,,https://www.aviasales.ru/search/ZNZ1501MOW1
-2027-01-16,IST,MOW,16869,direct,,https://www.aviasales.ru/search/IST1601MOW1
+2027-01-06,PEK,SEL,11269,direct Air China PEK 19:00 → ICN 21:55,23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:SEL&cabinClass=Y
+2027-01-06,PEK,SGN,9597,direct Vietjet PKX 23:00 → SGN 7.01 03:05,no; +863 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-06_date_2027-01-06_iatax:SGN&cabinClass=Y
+2027-01-14,BKK,BJS,11987,"CAN, BKK 02:10 → PKX 12:00; прямой China Eastern от 15942",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y
+2027-01-14,BKK,IST,28849,"KUL, DMK 15:10 → SAW 15.01 16:05",no; +5637 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:IST&cabinClass=Y
+2027-01-14,BKK,MOW,40134,"BOM+BAK, BKK 20:40 → DME 16.01 12:05",no; +13001 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:MOW&cabinClass=Y
+2027-01-14,HAN,BJS,10809,"SZX, HAN 14:40 → PKX 22:40",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HAN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y
+2027-01-14,KUL,BJS,11995,"SZX, KUL 01:30 → PKX 12:45",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:KUL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y
+2027-01-14,MNL,BJS,13104,"CAN, MNL 08:20 → PKX 15.01 00:55",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MNL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y
+2027-01-14,SEL,BJS,11040,direct Asiana GMP 08:35 → PEK 09:45,23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SEL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y
+2027-01-14,SGN,BJS,11160,"CAN, SGN 11:55 → PKX 21:00",23kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y
+2027-01-15,BJS,MOW,27864,"SVX, PKX 04:55 → DME 16.01 07:25",no; +6327 for 10kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BJS_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-15,BKK,MOW,45797,"CAN+TAS, DMK 21:50 → DME 16.01 14:25",no; +9996 for 5kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-15,CMB,MOW,43809,"SHJ+IST, CMB 14:35 → SVO 16.01 23:50",no; +5180 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:CMB_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-15,HKT,MOW,42287,"BOM+BAK, HKT 20:55 → DME 16.01 12:05",no; +4615 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HKT_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-15,MRU,MOW,51609,"BLR+BOM+BAK, MRU 09:30 → DME 16.01 12:05",no; +5383 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MRU_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-15,SGN,MOW,45583,"CAN+TAS, SGN 21:45 → VKO 16.01 16:15",no; +10523 bag,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-15,ZNZ,MOW,46333,"HRG+IZM, ZNZ 09:10 → VKO 17.01 03:25",no; +3269 for 20kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:ZNZ_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y
+2027-01-16,IST,MOW,12825,"AYT, SAW 05:35 → VKO 17.01 14:15; прямой Southwind от 14729",no; +2296 for 12kg,https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:IST_2027-01-16_date_2027-01-16_iatax:MOW&cabinClass=Y
