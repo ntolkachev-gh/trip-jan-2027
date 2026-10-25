@@ -574,9 +574,9 @@
    "date": "2027-01-04",
    "from": "MOW",
    "to": "BJS",
-   "price_rub": "39584",
-   "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-   "baggage": "no (10kg hand); 51544 with 23kg",
+   "price_rub": "43363",
+   "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+   "baggage": "no (10kg hand); 54451 with 10kg checked",
    "url": "https://www.aviasales.ru/search/MOW0401BJS15011",
    "id": 57
   },
@@ -681,7 +681,7 @@
   {
    "city": "Пекин",
    "code": "BJS",
-   "price": 39584,
+   "price": 43363,
    "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
   },
   {
@@ -703,16 +703,16 @@
    "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:CAN&route[1]=iatax:CAN_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
   },
   {
-   "city": "Марракеш",
-   "code": "RAK",
-   "price": 54651,
-   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:RAK&route[1]=iatax:RAK_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
-  },
-  {
    "city": "Шанхай",
    "code": "SHA",
-   "price": 55129,
-   "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MOW_2027-01-04_date_2027-01-04_iatax:SHA&route[1]=iatax:SHA_2027-01-15_date_2027-01-15_iatax:MOW&cabinClass=Y"
+   "price": 56754,
+   "url": "https://www.aviasales.ru/search/MOW0401SHA15011"
+  },
+  {
+   "city": "Марракеш",
+   "code": "RAK",
+   "price": 57781,
+   "url": "https://www.aviasales.ru/search/MOW0401RAK15011"
   },
   {
    "city": "Касабланка",
@@ -838,9 +838,9 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "39584",
-     "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-     "baggage": "no (10kg hand); 51544 with 23kg",
+     "price_rub": "43363",
+     "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+     "baggage": "no (10kg hand); 54451 with 10kg checked",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -864,8 +864,8 @@
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:HAN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total": 60079,
-   "total_card": 60000,
+   "total": 63858,
+   "total_card": 64000,
    "score": 81.0,
    "stops": 2,
    "nobag_legs": 2,
@@ -893,9 +893,9 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "39584",
-     "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-     "baggage": "no (10kg hand); 51544 with 23kg",
+     "price_rub": "43363",
+     "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+     "baggage": "no (10kg hand); 54451 with 10kg checked",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -919,8 +919,8 @@
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SGN_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total": 60341,
-   "total_card": 60000,
+   "total": 64120,
+   "total_card": 64000,
    "score": 81.1,
    "stops": 2,
    "nobag_legs": 2,
@@ -930,7 +930,7 @@
   },
   {
    "name": "Сеул через Пекин",
-   "total": 61893,
+   "total": 65672,
    "path": [
     "MOW",
     "BJS",
@@ -949,9 +949,9 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "39584",
-     "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-     "baggage": "no (10kg hand); 51544 with 23kg",
+     "price_rub": "43363",
+     "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+     "baggage": "no (10kg hand); 54451 with 10kg checked",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -975,7 +975,7 @@
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:SEL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total_card": 62000,
+   "total_card": 66000,
    "score": 75.6,
    "optimal": true,
    "reason": "дёшево, меньше всего пересадок (2), прямые рейсы Пекин ↔ Сеул с багажом",
@@ -985,7 +985,7 @@
   },
   {
    "name": "Бангкок через Пекин",
-   "total": 62553,
+   "total": 66332,
    "path": [
     "MOW",
     "BJS",
@@ -1003,9 +1003,9 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "39584",
-     "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-     "baggage": "no (10kg hand); 51544 with 23kg",
+     "price_rub": "43363",
+     "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+     "baggage": "no (10kg hand); 54451 with 10kg checked",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -1029,7 +1029,7 @@
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:BKK_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total_card": 63000,
+   "total_card": 66000,
    "score": 84.3,
    "optimal": false,
    "stops": 3,
@@ -1056,9 +1056,9 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "39584",
-     "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-     "baggage": "no (10kg hand); 51544 with 23kg",
+     "price_rub": "43363",
+     "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+     "baggage": "no (10kg hand); 54451 with 10kg checked",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -1082,8 +1082,8 @@
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:KUL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total": 63415,
-   "total_card": 63000,
+   "total": 67194,
+   "total_card": 67000,
    "score": 85.1,
    "stops": 3,
    "nobag_legs": 1,
@@ -1092,7 +1092,7 @@
   },
   {
    "name": "Манила через Пекин",
-   "total": 64347,
+   "total": 68126,
    "path": [
     "MOW",
     "BJS",
@@ -1111,9 +1111,9 @@
      "date": "2027-01-04",
      "from": "MOW",
      "to": "BJS",
-     "price_rub": "39584",
-     "via": "Aviasales: 1 stop SVX, туда-обратно, обратно 15.01, DME 10:00 → PKX 5.01 03:55, обратно PKX 11:50 → DME 16:40 (Купибилет 39760)",
-     "baggage": "no (10kg hand); 51544 with 23kg",
+     "price_rub": "43363",
+     "via": "Aviasales 25.10: 1 stop SVX (Уральские авиалинии), туда-обратно, обратно 15.01, DME 20:35/22:00/23:45 → PKX 6.01 09:55, обратно PKX 04:55 → DME 16:40; прямой China Southern 75774 с 23 кг",
+     "baggage": "no (10kg hand); 54451 with 10kg checked",
      "url": "https://www.aviasales.ru/search/MOW0401BJS15011"
     },
     {
@@ -1137,7 +1137,7 @@
      "url": "https://www.kupibilet.ru/search?adult=1&child=0&infant=0&route[0]=iatax:MNL_2027-01-14_date_2027-01-14_iatax:BJS&cabinClass=Y"
     }
    ],
-   "total_card": 64000,
+   "total_card": 68000,
    "score": 86.1,
    "optimal": false,
    "stops": 3,
@@ -1728,5 +1728,5 @@
    "risk": 0
   }
  ],
- "updated": "23.10.2026"
+ "updated": "25.10.2026"
 }
